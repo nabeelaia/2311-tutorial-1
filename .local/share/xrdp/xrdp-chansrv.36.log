@@ -1,0 +1,86 @@
+[20231121-11:23:06] [INFO ] Socket 12: AF_UNIX connection received
+[20231121-11:23:06] [INFO ] sound_process_output_format:
+[20231121-11:23:06] [INFO ]       wFormatNo       0
+[20231121-11:23:06] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231121-11:23:06] [INFO ]       nChannels       2
+[20231121-11:23:06] [INFO ]       nSamplesPerSec  44100
+[20231121-11:23:06] [INFO ]       nAvgBytesPerSec 176400
+[20231121-11:23:06] [INFO ]       nBlockAlign     4
+[20231121-11:23:06] [INFO ]       wBitsPerSample  16
+[20231121-11:23:06] [INFO ]       cbSize          0
+[20231121-11:23:06] [INFO ] sound_process_output_format:
+[20231121-11:23:06] [INFO ]       wFormatNo       1
+[20231121-11:23:06] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231121-11:23:06] [INFO ]       nChannels       2
+[20231121-11:23:06] [INFO ]       nSamplesPerSec  22050
+[20231121-11:23:06] [INFO ]       nAvgBytesPerSec 88200
+[20231121-11:23:06] [INFO ]       nBlockAlign     4
+[20231121-11:23:06] [INFO ]       wBitsPerSample  16
+[20231121-11:23:06] [INFO ]       cbSize          0
+[20231121-11:23:06] [INFO ] sound_process_training: round trip time 101
+[20231121-11:23:42] [ERROR] clipboard_event_selection_request: unknown target resource-transfer-format:1700583820138:679690239
+[20231121-11:23:42] [ERROR] clipboard_event_selection_request: unknown target resource-transfer-format:1700583820138:679690239
+[20231121-11:24:05] [ERROR] clipboard_event_selection_request: unknown target resource-transfer-format:1700583820138:679690239
+[20231121-11:24:05] [ERROR] clipboard_event_selection_request: unknown target resource-transfer-format:1700583820138:679690239
+[20231121-11:27:44] [INFO ] Socket 14: AF_UNIX connection received
+[20231121-11:27:44] [INFO ] sound_process_output_format:
+[20231121-11:27:44] [INFO ]       wFormatNo       0
+[20231121-11:27:44] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231121-11:27:44] [INFO ]       nChannels       2
+[20231121-11:27:44] [INFO ]       nSamplesPerSec  44100
+[20231121-11:27:44] [INFO ]       nAvgBytesPerSec 176400
+[20231121-11:27:44] [INFO ]       nBlockAlign     4
+[20231121-11:27:44] [INFO ]       wBitsPerSample  16
+[20231121-11:27:44] [INFO ]       cbSize          0
+[20231121-11:27:44] [INFO ] sound_process_output_format:
+[20231121-11:27:44] [INFO ]       wFormatNo       1
+[20231121-11:27:44] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231121-11:27:44] [INFO ]       nChannels       2
+[20231121-11:27:44] [INFO ]       nSamplesPerSec  22050
+[20231121-11:27:44] [INFO ]       nAvgBytesPerSec 88200
+[20231121-11:27:44] [INFO ]       nBlockAlign     4
+[20231121-11:27:44] [INFO ]       wBitsPerSample  16
+[20231121-11:27:44] [INFO ]       cbSize          0
+[20231121-11:27:44] [INFO ] sound_process_training: round trip time 100
+[20231121-11:27:47] [INFO ] Socket 14: AF_UNIX connection received
+[20231121-11:27:47] [INFO ] sound_process_output_format:
+[20231121-11:27:47] [INFO ]       wFormatNo       0
+[20231121-11:27:47] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231121-11:27:47] [INFO ]       nChannels       2
+[20231121-11:27:47] [INFO ]       nSamplesPerSec  44100
+[20231121-11:27:47] [INFO ]       nAvgBytesPerSec 176400
+[20231121-11:27:47] [INFO ]       nBlockAlign     4
+[20231121-11:27:47] [INFO ]       wBitsPerSample  16
+[20231121-11:27:47] [INFO ]       cbSize          0
+[20231121-11:27:47] [INFO ] sound_process_output_format:
+[20231121-11:27:47] [INFO ]       wFormatNo       1
+[20231121-11:27:47] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231121-11:27:47] [INFO ]       nChannels       2
+[20231121-11:27:47] [INFO ]       nSamplesPerSec  22050
+[20231121-11:27:47] [INFO ]       nAvgBytesPerSec 88200
+[20231121-11:27:47] [INFO ]       nBlockAlign     4
+[20231121-11:27:47] [INFO ]       wBitsPerSample  16
+[20231121-11:27:47] [INFO ]       cbSize          0
+[20231121-11:27:47] [INFO ] sound_process_training: round trip time 100
+[20231121-11:34:10] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700584450118
+[20231121-11:34:10] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700584450118
+[20231121-11:34:10] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700584450118
+[20231121-11:35:49] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700584450118
+[20231121-11:36:04] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700584450118
+[20231121-11:36:30] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700584450118
+[20231121-11:36:30] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700584450118
+[20231121-11:36:30] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700584450118
+[20231121-11:36:30] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700584450118
+[20231121-11:36:30] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700584450118
+[20231121-11:36:30] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700584450118
+[20231121-11:37:22] [ERROR] clipboard_event_selection_request: unknown target resource-transfer-format:1700584640771:1502545503
+[20231121-11:37:22] [ERROR] clipboard_event_selection_request: unknown target resource-transfer-format:1700584640771:1502545503
+[20231121-11:39:33] [ERROR] clipboard_event_selection_request: unknown target resource-transfer-format:1700584640771:1502545503
+[20231121-11:39:33] [ERROR] clipboard_event_selection_request: unknown target resource-transfer-format:1700584640771:1502545503
+[20231121-11:47:14] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700585234016
+[20231121-11:47:14] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700585234016
+[20231121-11:48:27] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700585234016
+[20231121-11:48:39] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700585234016
+[20231121-11:49:04] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700585234016
+[20231121-11:49:04] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700585234016
+[20231121-11:50:07] [ERROR] clipboard_event_selection_request: unknown target Snippet 1700585234016

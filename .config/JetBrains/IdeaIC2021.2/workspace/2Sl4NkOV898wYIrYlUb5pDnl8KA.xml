@@ -1,0 +1,110 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/quiz2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/quiz2.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25035715" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32969886" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" id="Space Automation" order="6" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state width="1377" height="289" key="GridCell.Tab.0.bottom" timestamp="1689708674839">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="289" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1689708674839" />
+    <state width="1377" height="289" key="GridCell.Tab.0.center" timestamp="1689708674839">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="289" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1689708674839" />
+    <state width="1377" height="289" key="GridCell.Tab.0.left" timestamp="1689708674838">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="289" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1689708674838" />
+    <state width="1377" height="289" key="GridCell.Tab.0.right" timestamp="1689708674839">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="289" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1689708674839" />
+    <state x="547" y="93" width="816" height="927" key="new project wizard" timestamp="1689709761086">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="547" y="93" width="816" height="927" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1689709761086" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/quiz2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

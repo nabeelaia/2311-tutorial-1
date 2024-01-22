@@ -1,0 +1,152 @@
+[20231003-11:11:14] [INFO ] Socket 12: AF_UNIX connection received
+[20231003-11:11:14] [INFO ] sound_process_output_format:
+[20231003-11:11:14] [INFO ]       wFormatNo       0
+[20231003-11:11:14] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:11:14] [INFO ]       nChannels       2
+[20231003-11:11:14] [INFO ]       nSamplesPerSec  44100
+[20231003-11:11:14] [INFO ]       nAvgBytesPerSec 176400
+[20231003-11:11:14] [INFO ]       nBlockAlign     4
+[20231003-11:11:14] [INFO ]       wBitsPerSample  16
+[20231003-11:11:14] [INFO ]       cbSize          0
+[20231003-11:11:14] [INFO ] sound_process_output_format:
+[20231003-11:11:14] [INFO ]       wFormatNo       1
+[20231003-11:11:14] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:11:14] [INFO ]       nChannels       2
+[20231003-11:11:14] [INFO ]       nSamplesPerSec  22050
+[20231003-11:11:14] [INFO ]       nAvgBytesPerSec 88200
+[20231003-11:11:14] [INFO ]       nBlockAlign     4
+[20231003-11:11:14] [INFO ]       wBitsPerSample  16
+[20231003-11:11:14] [INFO ]       cbSize          0
+[20231003-11:11:14] [INFO ] sound_process_training: round trip time 119
+[20231003-11:12:03] [ERROR] clipboard_event_selection_request: unknown target Snippet 1696345923637
+[20231003-11:12:03] [ERROR] clipboard_event_selection_request: unknown target Snippet 1696345923637
+[20231003-11:12:38] [ERROR] clipboard_event_selection_request: unknown target Snippet 1696345923637
+[20231003-11:12:39] [ERROR] clipboard_event_selection_request: unknown target Snippet 1696345923637
+[20231003-11:12:39] [ERROR] clipboard_event_selection_request: unknown target Snippet 1696345923637
+[20231003-11:12:49] [INFO ] Socket 14: AF_UNIX connection received
+[20231003-11:12:49] [INFO ] sound_process_output_format:
+[20231003-11:12:49] [INFO ]       wFormatNo       0
+[20231003-11:12:49] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:12:49] [INFO ]       nChannels       2
+[20231003-11:12:49] [INFO ]       nSamplesPerSec  44100
+[20231003-11:12:49] [INFO ]       nAvgBytesPerSec 176400
+[20231003-11:12:49] [INFO ]       nBlockAlign     4
+[20231003-11:12:49] [INFO ]       wBitsPerSample  16
+[20231003-11:12:49] [INFO ]       cbSize          0
+[20231003-11:12:49] [INFO ] sound_process_output_format:
+[20231003-11:12:49] [INFO ]       wFormatNo       1
+[20231003-11:12:49] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:12:49] [INFO ]       nChannels       2
+[20231003-11:12:49] [INFO ]       nSamplesPerSec  22050
+[20231003-11:12:49] [INFO ]       nAvgBytesPerSec 88200
+[20231003-11:12:49] [INFO ]       nBlockAlign     4
+[20231003-11:12:49] [INFO ]       wBitsPerSample  16
+[20231003-11:12:49] [INFO ]       cbSize          0
+[20231003-11:12:49] [INFO ] sound_process_training: round trip time 100
+[20231003-11:13:24] [ERROR] clipboard_event_selection_request: unknown target Snippet 1696345923637
+[20231003-11:13:34] [ERROR] clipboard_event_selection_request: unknown target Snippet 1696345923637
+[20231003-11:13:56] [INFO ] Socket 14: AF_UNIX connection received
+[20231003-11:13:56] [INFO ] sound_process_output_format:
+[20231003-11:13:56] [INFO ]       wFormatNo       0
+[20231003-11:13:56] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:13:56] [INFO ]       nChannels       2
+[20231003-11:13:56] [INFO ]       nSamplesPerSec  44100
+[20231003-11:13:56] [INFO ]       nAvgBytesPerSec 176400
+[20231003-11:13:56] [INFO ]       nBlockAlign     4
+[20231003-11:13:56] [INFO ]       wBitsPerSample  16
+[20231003-11:13:56] [INFO ]       cbSize          0
+[20231003-11:13:56] [INFO ] sound_process_output_format:
+[20231003-11:13:56] [INFO ]       wFormatNo       1
+[20231003-11:13:56] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:13:56] [INFO ]       nChannels       2
+[20231003-11:13:56] [INFO ]       nSamplesPerSec  22050
+[20231003-11:13:56] [INFO ]       nAvgBytesPerSec 88200
+[20231003-11:13:56] [INFO ]       nBlockAlign     4
+[20231003-11:13:56] [INFO ]       wBitsPerSample  16
+[20231003-11:13:56] [INFO ]       cbSize          0
+[20231003-11:13:56] [INFO ] sound_process_training: round trip time 105
+[20231003-11:14:43] [INFO ] Socket 14: AF_UNIX connection received
+[20231003-11:14:43] [INFO ] sound_process_output_format:
+[20231003-11:14:43] [INFO ]       wFormatNo       0
+[20231003-11:14:43] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:14:43] [INFO ]       nChannels       2
+[20231003-11:14:43] [INFO ]       nSamplesPerSec  44100
+[20231003-11:14:43] [INFO ]       nAvgBytesPerSec 176400
+[20231003-11:14:43] [INFO ]       nBlockAlign     4
+[20231003-11:14:43] [INFO ]       wBitsPerSample  16
+[20231003-11:14:43] [INFO ]       cbSize          0
+[20231003-11:14:43] [INFO ] sound_process_output_format:
+[20231003-11:14:43] [INFO ]       wFormatNo       1
+[20231003-11:14:43] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:14:43] [INFO ]       nChannels       2
+[20231003-11:14:43] [INFO ]       nSamplesPerSec  22050
+[20231003-11:14:43] [INFO ]       nAvgBytesPerSec 88200
+[20231003-11:14:43] [INFO ]       nBlockAlign     4
+[20231003-11:14:43] [INFO ]       wBitsPerSample  16
+[20231003-11:14:43] [INFO ]       cbSize          0
+[20231003-11:14:43] [INFO ] sound_process_training: round trip time 100
+[20231003-11:14:45] [INFO ] Socket 14: AF_UNIX connection received
+[20231003-11:14:45] [INFO ] sound_process_output_format:
+[20231003-11:14:45] [INFO ]       wFormatNo       0
+[20231003-11:14:45] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:14:45] [INFO ]       nChannels       2
+[20231003-11:14:45] [INFO ]       nSamplesPerSec  44100
+[20231003-11:14:45] [INFO ]       nAvgBytesPerSec 176400
+[20231003-11:14:45] [INFO ]       nBlockAlign     4
+[20231003-11:14:45] [INFO ]       wBitsPerSample  16
+[20231003-11:14:45] [INFO ]       cbSize          0
+[20231003-11:14:45] [INFO ] sound_process_output_format:
+[20231003-11:14:45] [INFO ]       wFormatNo       1
+[20231003-11:14:45] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:14:45] [INFO ]       nChannels       2
+[20231003-11:14:45] [INFO ]       nSamplesPerSec  22050
+[20231003-11:14:45] [INFO ]       nAvgBytesPerSec 88200
+[20231003-11:14:45] [INFO ]       nBlockAlign     4
+[20231003-11:14:45] [INFO ]       wBitsPerSample  16
+[20231003-11:14:45] [INFO ]       cbSize          0
+[20231003-11:14:46] [INFO ] sound_process_training: round trip time 100
+[20231003-11:17:40] [INFO ] Socket 14: AF_UNIX connection received
+[20231003-11:17:40] [INFO ] sound_process_output_format:
+[20231003-11:17:40] [INFO ]       wFormatNo       0
+[20231003-11:17:40] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:17:40] [INFO ]       nChannels       2
+[20231003-11:17:40] [INFO ]       nSamplesPerSec  44100
+[20231003-11:17:40] [INFO ]       nAvgBytesPerSec 176400
+[20231003-11:17:40] [INFO ]       nBlockAlign     4
+[20231003-11:17:40] [INFO ]       wBitsPerSample  16
+[20231003-11:17:40] [INFO ]       cbSize          0
+[20231003-11:17:40] [INFO ] sound_process_output_format:
+[20231003-11:17:40] [INFO ]       wFormatNo       1
+[20231003-11:17:40] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:17:40] [INFO ]       nChannels       2
+[20231003-11:17:40] [INFO ]       nSamplesPerSec  22050
+[20231003-11:17:40] [INFO ]       nAvgBytesPerSec 88200
+[20231003-11:17:40] [INFO ]       nBlockAlign     4
+[20231003-11:17:40] [INFO ]       wBitsPerSample  16
+[20231003-11:17:40] [INFO ]       cbSize          0
+[20231003-11:17:40] [INFO ] sound_process_training: round trip time 101
+[20231003-11:17:44] [ERROR] clipboard_event_selection_request: unknown target Snippet 1696345923637
+[20231003-11:17:44] [ERROR] clipboard_event_selection_request: unknown target Snippet 1696345923637
+[20231003-11:17:47] [ERROR] clipboard_event_selection_request: unknown target Snippet 1696345923637
+[20231003-11:17:48] [ERROR] clipboard_event_selection_request: unknown target Snippet 1696345923637
+[20231003-11:17:51] [ERROR] clipboard_event_selection_request: unknown target Snippet 1696345923637
+[20231003-11:18:39] [INFO ] Socket 14: AF_UNIX connection received
+[20231003-11:18:39] [INFO ] sound_process_output_format:
+[20231003-11:18:39] [INFO ]       wFormatNo       0
+[20231003-11:18:39] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:18:39] [INFO ]       nChannels       2
+[20231003-11:18:39] [INFO ]       nSamplesPerSec  44100
+[20231003-11:18:39] [INFO ]       nAvgBytesPerSec 176400
+[20231003-11:18:39] [INFO ]       nBlockAlign     4
+[20231003-11:18:39] [INFO ]       wBitsPerSample  16
+[20231003-11:18:39] [INFO ]       cbSize          0
+[20231003-11:18:39] [INFO ] sound_process_output_format:
+[20231003-11:18:39] [INFO ]       wFormatNo       1
+[20231003-11:18:39] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20231003-11:18:39] [INFO ]       nChannels       2
+[20231003-11:18:39] [INFO ]       nSamplesPerSec  22050
+[20231003-11:18:39] [INFO ]       nAvgBytesPerSec 88200
+[20231003-11:18:39] [INFO ]       nBlockAlign     4
+[20231003-11:18:39] [INFO ]       wBitsPerSample  16
+[20231003-11:18:39] [INFO ]       cbSize          0
+[20231003-11:18:39] [INFO ] sound_process_training: round trip time 100

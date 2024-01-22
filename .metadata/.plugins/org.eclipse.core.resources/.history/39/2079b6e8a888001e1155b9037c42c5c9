@@ -1,0 +1,74 @@
+package prac;
+
+
+
+public class runneer implements personn {
+
+	
+	public int pi = 2;
+	public int area= 7;
+	private int numberid;
+	
+
+	
+
+	@Override
+	public String toString() {
+		return "runneer [pi=" + pi + ", area=" + area + ", numberid=" + numberid + "]";
+	}
+
+	public int getPi() {
+		return pi;
+	}
+
+	public void setPi(int pi) {
+		this.pi = pi;
+	}
+
+	public int getArea() {
+		return area;
+	}
+
+	public void setArea(int area) {
+		this.area = area;
+	}
+
+	public int getNumberid() {
+		return numberid;
+	}
+
+	public void setNumberid(int numberid) {
+		this.numberid = ++this.numberid;
+	}
+
+	public static int getNumber() {
+		return number++;
+	}
+
+	public static void setNumber(int number) {
+		runneer.number = number++;
+	}
+
+	public runneer(int pi, int area) {
+		super();
+		this.pi = pi;
+		this.area = area;
+		this.numberid = ++this.numberid;
+	}
+
+	@Override
+	public int id() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public String name() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}
+	
+
+

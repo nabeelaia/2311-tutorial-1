@@ -1,0 +1,110 @@
+
+package quiz;
+
+public class book{
+	private String title;
+	private String author;
+	private int numPages;
+	private int YearPublished;
+	private int hardCopyCost;
+	private int onlineAccescost;
+	private boolean priceincreased;
+	private double computetotalcost;
+	 int maxpages = 1000;
+	 int minpages = 10;
+	public book(String title, String author, int numPages, int yearPublished, int hardCopyCost, int onlineAccescost,
+			boolean priceincreased, int maxpages, int minpages) {
+		super();
+		this.title = "Yahya";
+		this.author = "Yahya Anasri";
+		this.numPages = 186;
+		YearPublished = 2025;
+		this.hardCopyCost = 10;
+		this.onlineAccescost = onlineAccescost;
+		this.priceincreased = priceincreased;
+		this.maxpages = 1000;
+		this.minpages = 100;
+		this.computetotalcost=computetotalcost;
+		if (this.numPages>this.maxpages){
+			System.out.println("too many pasges error");
+		}
+	}
+	public String getTitle() {
+		return title;
+	}
+	public void setTitle(String title) {
+		this.title = title;
+	}
+	public String getAuthor() {
+		return author;
+	}
+	public void setAuthor(String author) {
+		this.author = author;
+	}
+	public int getNumPages() {
+		return numPages;
+	}
+	public void setNumPages(int numPages) {
+		this.numPages = numPages;
+	}
+	public int getYearPublished() {
+		return YearPublished;
+	}
+	public void setYearPublished(int yearPublished) {
+		YearPublished = yearPublished;
+	}
+	public int getHardCopyCost() {
+		return hardCopyCost;
+	}
+	public void setHardCopyCost(int hardCopyCost) {
+		this.hardCopyCost = hardCopyCost;
+		
+		}
+	
+	public int getOnlineAccescost() {
+		return onlineAccescost;
+	}
+	public void setOnlineAccescost(int onlineAccescost) {
+		this.onlineAccescost = onlineAccescost;
+	}
+	public boolean isPriceincreased() {
+		return priceincreased;
+	}
+	public void setPriceincreased(boolean priceincreased) {
+		this.priceincreased = priceincreased;
+	}
+	public int getMaxpages() {
+		return maxpages;
+	}
+	public void setMaxpages(int maxpages) {
+		this.maxpages = maxpages;
+	}
+	public int getMinpages() {
+		return minpages;
+	}
+	public void setMinpages(int minpages) {
+		this.minpages = minpages;}
+	
+	public void hardcopypriceincreased (double percent) {
+		this.hardCopyCost += this.hardCopyCost*percent/100;
+		this.priceincreased = true;
+		
+	}
+	public double computetotalcost () {
+		double basecost = this.hardCopyCost-((2023-this.YearPublished)*0.1) + 0.2*this.numPages;
+		double tax = basecost*0.13;
+		return basecost+tax;
+		
+		
+		
+		
+	}
+	@Override
+	public String toString() {
+		return "book [title=" + title + ", author=" + author + ", numPages=" + numPages + ", YearPublished="
+				+ YearPublished + ", hardCopyCost=" + hardCopyCost + ", onlineAccescost=" + onlineAccescost
+				+ ", priceincreased=" + priceincreased + ", computetotalcost=" + computetotalcost + ", maxpages="
+				+ maxpages + ", minpages=" + minpages + "]";
+	}
+}
+	 

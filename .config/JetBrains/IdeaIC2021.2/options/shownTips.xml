@@ -1,0 +1,44 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="CamelHumpsInCodeCompletion.html" value="1687286428757" />
+        <entry key="CamelPrefixesInNavigationPopups.html" value="1687286430158" />
+        <entry key="ClipboardStack.html" value="1687286430703" />
+        <entry key="CopyWithNoSelection.html" value="1687286422267" />
+        <entry key="CtrlD.html" value="1684262842787" />
+        <entry key="CtrlShiftI.html" value="1684262836508" />
+        <entry key="DotEtcInLookups.html" value="1684262839715" />
+        <entry key="DragToOpen.html" value="1684262841747" />
+        <entry key="EnterDirectoryInGotoFile.html" value="1688496379680" />
+        <entry key="FindReplaceToggle.html" value="1687286429464" />
+        <entry key="GoToImplementation.html" value="1684262840364" />
+        <entry key="HighlightThrows.html" value="1684262841537" />
+        <entry key="HorizontalScrolling.html" value="1684262837612" />
+        <entry key="IntroduceVariableIncompleteCode.html" value="1687286427735" />
+        <entry key="JarDiff.html" value="1684262841008" />
+        <entry key="JoinLines.html" value="1684262839188" />
+        <entry key="Kotlin_Java_convert.html" value="1686681600417" />
+        <entry key="LineEndings.html" value="1684262840804" />
+        <entry key="LiveTemplates.html" value="1684262832243" />
+        <entry key="MoveInnerToUpper.html" value="1687286431079" />
+        <entry key="Multiselection1.html" value="1687286428347" />
+        <entry key="Multiselection2.html" value="1687286430523" />
+        <entry key="NextPrevError.html" value="1689705708116" />
+        <entry key="PrintKeywords.html" value="1684262842613" />
+        <entry key="QuickJavaDoc.html" value="1692124475702" />
+        <entry key="RecentSearch.html" value="1686077410599" />
+        <entry key="Rename.html" value="1687286429132" />
+        <entry key="SecondBasicClassNameCompletion.html" value="1687286427025" />
+        <entry key="SecondSmartCompletionChain.html" value="1687286430335" />
+        <entry key="ShowUsages.html" value="1687286431296" />
+        <entry key="SmartTypeCasting.html" value="1687286430879" />
+        <entry key="SplitEditor.html" value="1687286429767" />
+        <entry key="TabInLookups.html" value="1684262841220" />
+        <entry key="WideScreen.html" value="1684262842630" />
+        <entry key="partial_git_commit.html" value="1684262843835" />
+        <entry key="pull_requests.html" value="1687286429966" />
+      </map>
+    </option>
+  </component>
+</application>

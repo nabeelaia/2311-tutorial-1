@@ -1,0 +1,21 @@
+package test3practoce;
+import java.util.HashSet;
+public class runner {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+	Circle C1= new Circle(3,4);
+Circle C3= C1;
+	Circle C2= new Circle (3,4);
+	HashSet<Circle> aset = new HashSet<>();
+	aset.add(C2);
+	aset.add(C1);
+	aset.add(C3);
+	System.out.println(aset.size());
+	System.out.println(C1.hashCode());
+	System.out.println(C2.hashCode());
+	System.out.println(C3.hashCode());
+	}}
+	

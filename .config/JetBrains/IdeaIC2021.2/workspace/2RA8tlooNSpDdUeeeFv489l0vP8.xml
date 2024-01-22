@@ -1,0 +1,152 @@
+<project version="4">
+  <component name="DockManager">
+    <window id="1" withNorthPanel="true">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/clacclab.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="286">
+                    <caret line="13" selection-start-line="13" selection-end-line="13" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/classfour.java" />
+      <option value="$PROJECT_DIR$/src/clacclab.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab3a" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3a" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab3a" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3a" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25035715" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34839046" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" weight="0.3120457" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32969886" />
+      <window_info anchor="right" id="Space Automation" order="6" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="908" y="474" width="516" height="336" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1686687043505">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="908" y="474" width="516" height="336" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1686687043505" />
+    <state x="623" y="301" width="424" height="554" key="FileChooserDialogImpl" timestamp="1686687039635">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="301" width="424" height="554" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1686687039635" />
+    <state width="1377" height="307" key="GridCell.Tab.0.bottom" timestamp="1686684987671">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="307" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1686684987671" />
+    <state width="1377" height="307" key="GridCell.Tab.0.center" timestamp="1686684987671">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="307" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1686684987671" />
+    <state width="1377" height="307" key="GridCell.Tab.0.left" timestamp="1686684987670">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="307" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1686684987670" />
+    <state width="1377" height="307" key="GridCell.Tab.0.right" timestamp="1686684987671">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1377" height="307" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1686684987671" />
+    <state x="452" y="59" width="762" height="789" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1686687218975">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="452" y="59" width="762" height="789" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1686687218975" />
+    <state x="325" y="140" width="1027" height="619" key="dock-window-1" timestamp="1686687323631">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="325" y="140" width="1027" height="619" key="dock-window-1/0.27.1920.1053@0.27.1920.1053" timestamp="1686687323631" />
+    <state x="620" y="383" key="save.file.as.template.dialog" timestamp="1686686836835">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="620" y="383" key="save.file.as.template.dialog/0.27.1920.1053@0.27.1920.1053" timestamp="1686686836835" />
+    <state x="594" y="262" width="672" height="687" key="search.everywhere.popup" timestamp="1686683047058">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="594" y="262" width="672" height="687" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1686683047058" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/classfour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clacclab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

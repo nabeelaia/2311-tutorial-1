@@ -1,0 +1,16 @@
+package prac;
+
+public class ikr {
+
+	public static void main(String[] args) {
+runneer id1 = new runneer(2,4);
+runneer id2 = new runneer(3,5);
+//System.out.println(id1.id());
+//System.out.println(id2.name());
+System.out.println(id1.getNumberid());
+System.out.println(id2.getNumberid());
+
+
+	}
+
+}

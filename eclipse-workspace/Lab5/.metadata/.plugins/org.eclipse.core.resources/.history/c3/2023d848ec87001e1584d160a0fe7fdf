@@ -1,0 +1,76 @@
+package test3practoce;
+
+import java.util.Objects;
+
+public class Circle1 implements Comparable<Circle1>{
+private double length;
+private double height;
+public static int circlenumber=1;
+public int Circleid= circlenumber++;
+public double area;
+public double perm;
+
+	
+
+	public Circle1(double area, double perm) {
+	super();
+	this.area = area;
+	this.perm = perm;
+}
+
+	public void Circle(double length, double height) {
+		this.length = length;
+		this.height = height;
+	}
+
+	public double getLength() {
+		return length;
+	}
+
+	public void setLength(double length) {
+		this.length = length;
+	}
+
+	public double getHeight() {
+		return height;
+	}
+
+	public void setHeight(double height) {
+		this.height = height;
+	}
+
+	
+
+
+
+	@Override
+	public String toString() {
+		return "Circle [length=" + length + ", height=" + height + "]";
+	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(height, length);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Circle1 other = (Circle1) obj;
+		return Double.doubleToLongBits(height) == Double.doubleToLongBits(other.height)
+				&& Double.doubleToLongBits(length) == Double.doubleToLongBits(other.length);
+	}
+
+	@Override
+	public int compareTo(Circle1 o) {
+return (int) (this.getLength()-o.getLength());	}
+
+	
+}
+	
+	

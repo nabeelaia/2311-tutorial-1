@@ -1,0 +1,2 @@
+location.services.mozilla.com:HSTS	0	19611	1726012670432,1,1
+start.thunderbird.net^partitionKey=%28http%2Cthunderbird.net%29:HSTS	0	19611	1726012670653,1,0

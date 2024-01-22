@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///cs/home/nabeela1/Pictures/Screenshot%20from%202023-05-16%2015-14-04.png" added="2023-05-16T19:14:04Z" modified="2023-05-16T19:15:17Z" visited="2023-05-16T19:14:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2023-05-16T19:14:04Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-05-16T19:15:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///eecs/home/nabeela1/IdeaProjects/AnsariEECS1021/AnsariEECS1021.zip" added="2023-05-16T19:16:16Z" modified="2023-06-13T20:06:19Z" visited="2023-05-16T19:16:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-13T20:06:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Downloads/lab3a.zip" added="2023-06-13T20:09:20Z" modified="2023-06-13T20:09:20Z" visited="2023-06-13T20:09:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-13T20:09:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/.config/JetBrains/settings.zip" added="2023-06-13T20:10:49Z" modified="2023-06-20T20:30:20Z" visited="2023-06-13T20:10:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-06-13T20:10:49Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-20T20:30:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/IdeaProjects/lab3a/lab3a.iml" added="2023-06-13T20:11:08Z" modified="2023-06-13T20:11:15Z" visited="2023-06-13T20:11:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-13T20:11:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/IdeaProjects/lab3a/lab3a.userlibraries" added="2023-06-13T20:11:21Z" modified="2023-06-20T20:20:47Z" visited="2023-06-13T20:11:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-20T20:20:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/IdeaProjects/lab3a/out/production/lab3a/clacclab.class" added="2023-06-13T20:11:31Z" modified="2023-06-13T20:14:31Z" visited="2023-06-13T20:11:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-13T20:14:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/IdeaProjects/lab3a/exportToHTML/clacclab.java.html" added="2023-06-20T20:21:40Z" modified="2023-06-20T20:21:40Z" visited="2023-06-20T20:21:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-20T20:21:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///eecs/home/nabeela1/IdeaProjects/lab4a/lab4a.zip" added="2023-06-20T20:22:32Z" modified="2023-06-20T20:28:32Z" visited="2023-06-20T20:22:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-20T20:28:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///eecs/home/nabeela1/IdeaProjects/lab4a/lab4a.iml" added="2023-06-20T20:26:55Z" modified="2023-06-20T20:26:55Z" visited="2023-06-20T20:26:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-20T20:26:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///eecs/home/nabeela1/IdeaProjects/lab4a/lab4a.eml" added="2023-06-20T20:27:02Z" modified="2023-06-20T20:29:29Z" visited="2023-06-20T20:27:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="message/rfc822"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-20T20:29:29Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Downloads/lab4A.java.html" added="2023-06-20T20:31:41Z" modified="2023-06-20T20:31:41Z" visited="2023-06-20T20:31:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-20T20:31:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Downloads/lab4a.zip" added="2023-06-20T20:34:35Z" modified="2023-06-20T20:34:35Z" visited="2023-06-20T20:34:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-20T20:34:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/IdeaProjects/lab4a/src/lab4A.java" added="2023-06-20T20:34:48Z" modified="2023-06-20T20:34:48Z" visited="2023-06-20T20:34:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-20T20:34:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/lab4A.java" added="2023-06-20T20:35:00Z" modified="2023-06-20T20:35:04Z" visited="2023-06-20T20:35:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-06-20T20:35:00Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-06-20T20:35:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/lab5b.java" added="2023-07-18T19:00:34Z" modified="2023-07-18T19:00:38Z" visited="2023-07-18T19:00:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-07-18T19:00:34Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-07-18T19:00:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/IdeaProjects/quiz/quiz.zip" added="2023-07-18T20:27:16Z" modified="2023-07-18T20:28:05Z" visited="2023-07-18T20:27:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-07-18T20:28:05Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/BlackBodies.csv" added="2023-08-15T19:19:18Z" modified="2023-08-15T19:19:31Z" visited="2023-08-15T19:19:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-08-15T19:19:18Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.4" exec="&apos;soffice %u&apos;" modified="2023-08-15T19:19:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/BlackBodies(1).csv" added="2023-08-15T20:14:48Z" modified="2023-08-15T20:14:48Z" visited="2023-08-15T20:14:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-08-15T20:14:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/BlackBodies(2).csv" added="2023-08-15T20:15:00Z" modified="2023-08-15T20:15:07Z" visited="2023-08-15T20:15:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-08-15T20:15:00Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.4" exec="&apos;soffice %u&apos;" modified="2023-08-15T20:15:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Labs.zip" added="2023-09-11T23:09:34Z" modified="2023-09-11T23:09:35Z" visited="2023-09-11T23:09:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-11T23:09:34Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-09-11T23:09:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/.cache/.fr-sDl9Uf/Labs/Lab%2000.pdf" added="2023-09-11T23:09:41Z" modified="2023-09-11T23:09:41Z" visited="2023-09-11T23:09:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-09-11T23:09:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Labs(1).zip" added="2023-09-18T23:03:35Z" modified="2023-09-18T23:03:38Z" visited="2023-09-18T23:03:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:03:35Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-09-18T23:03:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Labs(2).zip" added="2023-09-18T23:03:37Z" modified="2023-09-18T23:03:37Z" visited="2023-09-18T23:03:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:03:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/.cache/.fr-VMGKpi/Labs/Lab%2001.pdf" added="2023-09-18T23:03:43Z" modified="2023-09-18T23:03:43Z" visited="2023-09-18T23:03:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-09-18T23:03:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a1d05.asm" added="2023-09-18T23:22:16Z" modified="2023-09-18T23:22:16Z" visited="2023-09-18T23:22:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:22:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a1c05.asm" added="2023-09-18T23:22:26Z" modified="2023-09-18T23:22:26Z" visited="2023-09-18T23:22:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:22:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a1b05.asm" added="2023-09-18T23:22:40Z" modified="2023-09-18T23:22:40Z" visited="2023-09-18T23:22:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:22:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a1a05.asm" added="2023-09-18T23:22:52Z" modified="2023-09-18T23:22:52Z" visited="2023-09-18T23:22:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:22:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a2a05.asm" added="2023-09-18T23:35:48Z" modified="2023-09-18T23:35:48Z" visited="2023-09-18T23:35:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:35:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a2b05.asm" added="2023-09-18T23:35:57Z" modified="2023-09-18T23:35:57Z" visited="2023-09-18T23:35:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:35:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a2c05.asm" added="2023-09-18T23:36:09Z" modified="2023-09-18T23:36:09Z" visited="2023-09-18T23:36:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:36:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a2d05.asm" added="2023-09-18T23:36:19Z" modified="2023-09-18T23:36:19Z" visited="2023-09-18T23:36:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:36:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a2e05.asm%20" added="2023-09-18T23:36:41Z" modified="2023-09-18T23:36:41Z" visited="2023-09-18T23:36:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:36:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a3a05.asm" added="2023-09-18T23:36:51Z" modified="2023-09-18T23:36:51Z" visited="2023-09-18T23:36:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:36:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a3c05.asm" added="2023-09-18T23:37:04Z" modified="2023-09-18T23:37:04Z" visited="2023-09-18T23:37:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:37:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a4a05.asm" added="2023-09-18T23:37:14Z" modified="2023-09-18T23:37:14Z" visited="2023-09-18T23:37:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:37:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a4b05.asm" added="2023-09-18T23:37:22Z" modified="2023-09-18T23:37:22Z" visited="2023-09-18T23:37:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:37:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a4c05.asm" added="2023-09-18T23:37:38Z" modified="2023-09-18T23:37:38Z" visited="2023-09-18T23:37:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:37:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a5a05.asm" added="2023-09-18T23:37:49Z" modified="2023-09-18T23:37:49Z" visited="2023-09-18T23:37:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:37:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a5b05.asm" added="2023-09-18T23:37:56Z" modified="2023-09-18T23:37:56Z" visited="2023-09-18T23:37:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-18T23:37:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a3b05.asm" added="2023-09-19T00:05:19Z" modified="2023-09-19T00:05:19Z" visited="2023-09-19T00:05:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-19T00:05:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a3c05(1).asm" added="2023-09-19T00:52:51Z" modified="2023-09-19T00:52:54Z" visited="2023-09-19T00:52:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-19T00:52:51Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-19T00:52:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a4a05(1).asm" added="2023-09-19T00:53:39Z" modified="2023-09-19T00:53:41Z" visited="2023-09-19T00:53:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-19T00:53:39Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-19T00:53:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a5b05(1).asm" added="2023-09-19T00:54:33Z" modified="2023-09-19T00:54:35Z" visited="2023-09-19T00:54:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-19T00:54:33Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-19T00:54:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a2a05(1).asm" added="2023-09-19T00:54:45Z" modified="2023-09-19T00:54:46Z" visited="2023-09-19T00:54:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-19T00:54:45Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-19T00:54:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/a2b05(1).asm" added="2023-09-19T01:00:19Z" modified="2023-09-19T01:00:21Z" visited="2023-09-19T01:00:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-09-19T01:00:19Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-19T01:00:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Lab2.zip" added="2023-10-01T22:18:14Z" modified="2023-10-01T22:19:43Z" visited="2023-10-01T22:18:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-01T22:18:14Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-10-01T22:18:32Z" count="1"/>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-10-01T22:19:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Downloads" added="2023-10-01T23:30:56Z" modified="2023-11-21T16:38:59Z" visited="2023-10-01T23:30:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-11-21T16:38:59Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Desktop/Untitled.jar" added="2023-10-01T23:35:20Z" modified="2023-11-05T22:15:46Z" visited="2023-10-01T23:35:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-11-05T22:14:21Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-05T22:15:46Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Desktop" added="2023-10-01T23:37:43Z" modified="2023-11-21T16:23:37Z" visited="2023-10-01T23:37:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-11-21T16:23:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Downloads/JunitTest_TestingExample.java-finished" added="2023-10-01T23:38:51Z" modified="2023-10-01T23:42:03Z" visited="2023-10-01T23:38:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-01T23:42:03Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/eclipse-workspace/Lab2/src/JunitTest_Testing3Example.java" added="2023-10-01T23:42:24Z" modified="2023-10-01T23:42:24Z" visited="2023-10-01T23:42:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-01T23:42:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Labs(3).zip" added="2023-10-02T22:57:32Z" modified="2023-10-02T22:57:35Z" visited="2023-10-02T22:57:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T22:57:32Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-10-02T22:57:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/.cache/.fr-VQCZnh/Labs/Lab%2002.pdf" added="2023-10-02T22:57:40Z" modified="2023-10-02T22:57:40Z" visited="2023-10-02T22:57:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-10-02T22:57:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b1a05.asm" added="2023-10-02T23:23:52Z" modified="2023-10-02T23:23:52Z" visited="2023-10-02T23:23:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:23:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b1b05.asm" added="2023-10-02T23:24:07Z" modified="2023-10-02T23:24:07Z" visited="2023-10-02T23:24:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:24:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b1c05.asm" added="2023-10-02T23:24:17Z" modified="2023-10-02T23:24:17Z" visited="2023-10-02T23:24:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:24:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b1d05.asm" added="2023-10-02T23:24:28Z" modified="2023-10-02T23:24:28Z" visited="2023-10-02T23:24:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:24:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b1e05.asm" added="2023-10-02T23:24:40Z" modified="2023-10-02T23:24:40Z" visited="2023-10-02T23:24:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:24:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b1f05.asm" added="2023-10-02T23:24:49Z" modified="2023-10-02T23:24:49Z" visited="2023-10-02T23:24:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:24:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b1g05.asm" added="2023-10-02T23:25:01Z" modified="2023-10-02T23:25:01Z" visited="2023-10-02T23:25:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:25:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b2a05.asm" added="2023-10-02T23:26:43Z" modified="2023-10-02T23:26:43Z" visited="2023-10-02T23:26:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:26:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b2b05.asm" added="2023-10-02T23:26:59Z" modified="2023-10-02T23:26:59Z" visited="2023-10-02T23:27:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:26:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b2c05.asm" added="2023-10-02T23:27:12Z" modified="2023-10-02T23:27:12Z" visited="2023-10-02T23:27:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:27:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b2d05.asm" added="2023-10-02T23:27:24Z" modified="2023-10-02T23:27:24Z" visited="2023-10-02T23:27:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:27:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b2f05.asm" added="2023-10-02T23:27:41Z" modified="2023-10-02T23:27:41Z" visited="2023-10-02T23:27:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:27:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b2e05.asm" added="2023-10-02T23:28:03Z" modified="2023-10-02T23:28:03Z" visited="2023-10-02T23:28:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:28:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b2g05.asm" added="2023-10-02T23:28:14Z" modified="2023-10-02T23:28:14Z" visited="2023-10-02T23:28:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:28:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b2h05.asm" added="2023-10-02T23:28:28Z" modified="2023-10-02T23:28:28Z" visited="2023-10-02T23:28:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:28:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b3a05.asm" added="2023-10-02T23:28:44Z" modified="2023-10-02T23:28:44Z" visited="2023-10-02T23:28:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:28:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/b3c05.asm" added="2023-10-02T23:29:04Z" modified="2023-10-02T23:29:04Z" visited="2023-10-02T23:29:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-02T23:29:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Lab4.zip" added="2023-10-25T18:55:23Z" modified="2023-10-25T19:00:29Z" visited="2023-10-25T18:55:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-25T18:55:23Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-10-25T18:56:17Z" count="1"/>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-10-25T19:00:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Lab4(1).zip" added="2023-10-25T18:56:15Z" modified="2023-10-25T19:02:27Z" visited="2023-10-25T18:56:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-25T18:56:15Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-10-25T19:02:27Z" count="2"/>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-10-25T19:01:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///eecs/home/nabeela1/Lab4.zip" added="2023-10-25T18:57:31Z" modified="2023-10-25T19:03:06Z" visited="2023-10-25T18:57:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-10-25T18:57:31Z" count="1"/>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-10-25T19:03:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///eecs/home/nabeela1/Lab4(1).zip" added="2023-10-25T18:58:25Z" modified="2023-10-25T19:01:02Z" visited="2023-10-25T18:58:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-10-25T19:01:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Lab4(2).zip" added="2023-10-25T18:59:12Z" modified="2023-10-25T18:59:12Z" visited="2023-10-25T18:59:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-10-25T18:59:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/.cache/.fr-t8PBjL/Lab4/src/lab4/SoccerTeam.java" added="2023-10-25T19:00:12Z" modified="2023-10-25T19:00:12Z" visited="2023-10-25T19:00:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="emacs" exec="&apos;emacs %u&apos;" modified="2023-10-25T19:00:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///eecs/home/nabeela1/Lab4(2).zip" added="2023-10-25T19:01:32Z" modified="2023-10-25T19:01:32Z" visited="2023-10-25T19:01:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-10-25T19:01:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Lab5.zip" added="2023-11-05T20:57:14Z" modified="2023-11-21T16:37:47Z" visited="2023-11-05T20:57:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-05T22:16:01Z" count="3"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-05T20:57:20Z" count="1"/>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-11-21T16:37:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///eecs/home/nabeela1/Lab5.zip" added="2023-11-05T20:57:38Z" modified="2023-11-21T16:37:59Z" visited="2023-11-05T20:57:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-11-05T21:04:28Z" count="5"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-21T16:37:59Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///eecs/home/nabeela1/eclipse-workspace/Lab5" added="2023-11-05T21:03:34Z" modified="2023-11-05T21:03:34Z" visited="2023-11-05T21:03:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-11-05T21:03:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Documents/Untitled.jar" added="2023-11-05T22:17:34Z" modified="2023-11-05T22:17:34Z" visited="2023-11-05T22:17:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-11-05T22:17:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///eecs/home/nabeela1/Documents/Untitled.jar" added="2023-11-05T22:17:42Z" modified="2023-11-05T22:17:42Z" visited="2023-11-05T22:17:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-11-05T22:17:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///eecs/home/nabeela1/eclipse-workspace/practice/src/quiz/Un.jar" added="2023-11-05T22:18:29Z" modified="2023-11-05T22:18:29Z" visited="2023-11-05T22:18:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-11-05T22:18:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Documents" added="2023-11-05T22:23:52Z" modified="2023-11-05T22:23:52Z" visited="2023-11-05T22:23:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-11-05T22:23:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/Documents/src/lab5/SchoolManager.java" added="2023-11-05T22:24:31Z" modified="2023-11-05T22:24:31Z" visited="2023-11-05T22:24:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-05T22:24:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1/SchoolManager.java" added="2023-11-05T22:24:45Z" modified="2023-11-05T22:24:48Z" visited="2023-11-05T22:24:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-05T22:24:45Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-11-05T22:24:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///eecs/home/nabeela1" added="2023-11-21T16:37:17Z" modified="2023-11-21T16:37:17Z" visited="2023-11-21T16:37:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-11-21T16:37:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

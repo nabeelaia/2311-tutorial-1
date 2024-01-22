@@ -1,0 +1,174 @@
+
+*** Console log: 2023-10-01 18:17:20 ***
+1696198640439	addons.xpi	WARN	Checking /pkgcache/firefox-102.15.1esr/distribution/extensions for addons
+[JavaScript Error: "NS_ERROR_ABORT: " {file: "resource:///modules/BrowserContentHandler.jsm" line: 414}]
+bch_handle@resource:///modules/BrowserContentHandler.jsm:414:24
+
+[JavaScript Error: "Unable to arm timer, the object has been finalized." {file: "resource://gre/modules/DeferredTask.jsm" line: 225}]
+arm@resource://gre/modules/DeferredTask.jsm:225:13
+save@resource://gre/modules/ExtensionParent.jsm:2002:27
+get@resource://gre/modules/ExtensionParent.jsm:2110:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+[JavaScript Error: "Unable to arm timer, the object has been finalized." {file: "resource://gre/modules/DeferredTask.jsm" line: 225}]
+arm@resource://gre/modules/DeferredTask.jsm:225:13
+save@resource://gre/modules/ExtensionParent.jsm:2002:27
+get@resource://gre/modules/ExtensionParent.jsm:2110:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+[JavaScript Error: "Unable to arm timer, the object has been finalized." {file: "resource://gre/modules/DeferredTask.jsm" line: 225}]
+arm@resource://gre/modules/DeferredTask.jsm:225:13
+save@resource://gre/modules/ExtensionParent.jsm:2002:27
+get@resource://gre/modules/ExtensionParent.jsm:2110:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1696198640882	addons.xpi	WARN	Exception running bootstrap method startup on bing@search.mozilla.org: Error: Unable to arm timer, the object has been finalized.(resource://gre/modules/DeferredTask.jsm:225:13) JS Stack trace: arm@DeferredTask.jsm:225:13
+save@ExtensionParent.jsm:2002:27
+get@ExtensionParent.jsm:2110:20
+observe@AsyncShutdown.jsm:575:16
+1696198640882	addons.xpi	WARN	Exception running bootstrap method startup on ddg@search.mozilla.org: Error: Unable to arm timer, the object has been finalized.(resource://gre/modules/DeferredTask.jsm:225:13) JS Stack trace: arm@DeferredTask.jsm:225:13
+save@ExtensionParent.jsm:2002:27
+get@ExtensionParent.jsm:2110:20
+observe@AsyncShutdown.jsm:575:16
+1696198640882	addons.xpi	WARN	Exception running bootstrap method startup on doh-rollout@mozilla.org: Error: Unable to arm timer, the object has been finalized.(resource://gre/modules/DeferredTask.jsm:225:13) JS Stack trace: arm@DeferredTask.jsm:225:13
+save@ExtensionParent.jsm:2002:27
+get@ExtensionParent.jsm:2110:20
+observe@AsyncShutdown.jsm:575:16
+[JavaScript Error: "Unable to arm timer, the object has been finalized." {file: "resource://gre/modules/DeferredTask.jsm" line: 225}]
+arm@resource://gre/modules/DeferredTask.jsm:225:13
+save@resource://gre/modules/ExtensionParent.jsm:2002:27
+get@resource://gre/modules/ExtensionParent.jsm:2110:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+[JavaScript Error: "Unable to arm timer, the object has been finalized." {file: "resource://gre/modules/DeferredTask.jsm" line: 225}]
+arm@resource://gre/modules/DeferredTask.jsm:225:13
+save@resource://gre/modules/ExtensionParent.jsm:2002:27
+get@resource://gre/modules/ExtensionParent.jsm:2110:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+[JavaScript Error: "Unable to arm timer, the object has been finalized." {file: "resource://gre/modules/DeferredTask.jsm" line: 225}]
+arm@resource://gre/modules/DeferredTask.jsm:225:13
+save@resource://gre/modules/ExtensionParent.jsm:2002:27
+get@resource://gre/modules/ExtensionParent.jsm:2110:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+[JavaScript Error: "Unable to arm timer, the object has been finalized." {file: "resource://gre/modules/DeferredTask.jsm" line: 225}]
+arm@resource://gre/modules/DeferredTask.jsm:225:13
+save@resource://gre/modules/ExtensionParent.jsm:2002:27
+get@resource://gre/modules/ExtensionParent.jsm:2110:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1696198640886	addons.xpi	WARN	Exception running bootstrap method startup on amazon@search.mozilla.org: Error: Unable to arm timer, the object has been finalized.(resource://gre/modules/DeferredTask.jsm:225:13) JS Stack trace: arm@DeferredTask.jsm:225:13
+save@ExtensionParent.jsm:2002:27
+get@ExtensionParent.jsm:2110:20
+observe@AsyncShutdown.jsm:575:16
+1696198640886	addons.xpi	WARN	Exception running bootstrap method startup on ebay@search.mozilla.org: Error: Unable to arm timer, the object has been finalized.(resource://gre/modules/DeferredTask.jsm:225:13) JS Stack trace: arm@DeferredTask.jsm:225:13
+save@ExtensionParent.jsm:2002:27
+get@ExtensionParent.jsm:2110:20
+observe@AsyncShutdown.jsm:575:16
+1696198640886	addons.xpi	WARN	Exception running bootstrap method startup on google@search.mozilla.org: Error: Unable to arm timer, the object has been finalized.(resource://gre/modules/DeferredTask.jsm:225:13) JS Stack trace: arm@DeferredTask.jsm:225:13
+save@ExtensionParent.jsm:2002:27
+get@ExtensionParent.jsm:2110:20
+observe@AsyncShutdown.jsm:575:16
+1696198640886	addons.xpi	WARN	Exception running bootstrap method startup on wikipedia@search.mozilla.org: Error: Unable to arm timer, the object has been finalized.(resource://gre/modules/DeferredTask.jsm:225:13) JS Stack trace: arm@DeferredTask.jsm:225:13
+save@ExtensionParent.jsm:2002:27
+get@ExtensionParent.jsm:2110:20
+observe@AsyncShutdown.jsm:575:16
+[JavaScript Error: "Unable to arm timer, the object has been finalized." {file: "resource://gre/modules/DeferredTask.jsm" line: 225}]
+arm@resource://gre/modules/DeferredTask.jsm:225:13
+save@resource://gre/modules/ExtensionParent.jsm:2002:27
+get@resource://gre/modules/ExtensionParent.jsm:2110:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1696198640888	addons.xpi	WARN	Exception running bootstrap method startup on addons-search-detection@mozilla.com: Error: Unable to arm timer, the object has been finalized.(resource://gre/modules/DeferredTask.jsm:225:13) JS Stack trace: arm@DeferredTask.jsm:225:13
+save@ExtensionParent.jsm:2002:27
+get@ExtensionParent.jsm:2110:20
+observe@AsyncShutdown.jsm:575:16
+[JavaScript Error: "Unable to arm timer, the object has been finalized." {file: "resource://gre/modules/DeferredTask.jsm" line: 225}]
+arm@resource://gre/modules/DeferredTask.jsm:225:13
+save@resource://gre/modules/ExtensionParent.jsm:2002:27
+get@resource://gre/modules/ExtensionParent.jsm:2110:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1696198640888	addons.xpi	WARN	Exception running bootstrap method startup on formautofill@mozilla.org: Error: Unable to arm timer, the object has been finalized.(resource://gre/modules/DeferredTask.jsm:225:13) JS Stack trace: arm@DeferredTask.jsm:225:13
+save@ExtensionParent.jsm:2002:27
+get@ExtensionParent.jsm:2110:20
+observe@AsyncShutdown.jsm:575:16
+[JavaScript Error: "Unable to arm timer, the object has been finalized." {file: "resource://gre/modules/DeferredTask.jsm" line: 225}]
+arm@resource://gre/modules/DeferredTask.jsm:225:13
+save@resource://gre/modules/ExtensionParent.jsm:2002:27
+get@resource://gre/modules/ExtensionParent.jsm:2110:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1696198640888	addons.xpi	WARN	Exception running bootstrap method startup on pictureinpicture@mozilla.org: Error: Unable to arm timer, the object has been finalized.(resource://gre/modules/DeferredTask.jsm:225:13) JS Stack trace: arm@DeferredTask.jsm:225:13
+save@ExtensionParent.jsm:2002:27
+get@ExtensionParent.jsm:2110:20
+observe@AsyncShutdown.jsm:575:16
+[JavaScript Error: "Unable to arm timer, the object has been finalized." {file: "resource://gre/modules/DeferredTask.jsm" line: 225}]
+arm@resource://gre/modules/DeferredTask.jsm:225:13
+save@resource://gre/modules/ExtensionParent.jsm:2002:27
+get@resource://gre/modules/ExtensionParent.jsm:2110:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1696198640888	addons.xpi	WARN	Exception running bootstrap method startup on screenshots@mozilla.org: Error: Unable to arm timer, the object has been finalized.(resource://gre/modules/DeferredTask.jsm:225:13) JS Stack trace: arm@DeferredTask.jsm:225:13
+save@ExtensionParent.jsm:2002:27
+get@ExtensionParent.jsm:2110:20
+observe@AsyncShutdown.jsm:575:16
+[JavaScript Error: "Unable to arm timer, the object has been finalized." {file: "resource://gre/modules/DeferredTask.jsm" line: 225}]
+arm@resource://gre/modules/DeferredTask.jsm:225:13
+save@resource://gre/modules/ExtensionParent.jsm:2002:27
+get@resource://gre/modules/ExtensionParent.jsm:2110:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1696198640889	addons.xpi	WARN	Exception running bootstrap method startup on webcompat@mozilla.org: Error: Unable to arm timer, the object has been finalized.(resource://gre/modules/DeferredTask.jsm:225:13) JS Stack trace: arm@DeferredTask.jsm:225:13
+save@ExtensionParent.jsm:2002:27
+get@ExtensionParent.jsm:2110:20
+observe@AsyncShutdown.jsm:575:16
+[JavaScript Error: "AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished" {file: "resource://gre/modules/JSONFile.jsm" line: 138}]
+[JavaScript Error: "1696198640895	addons.repository	ERROR	Malformed addons.json: AbortError: IOUtils: Shutting down and refusing additional I/O tasks - resetting to empty" {file: "resource://gre/modules/Log.jsm" line: 729}]
+append@resource://gre/modules/Log.jsm:729:12
+log@resource://gre/modules/Log.jsm:385:16
+error@resource://gre/modules/Log.jsm:393:10
+openConnection/this.connectionPromise<@resource://gre/modules/addons/AddonRepository.jsm:785:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+[JavaScript Error: "AbortError: IOUtils: Shutting down and refusing additional I/O tasks"]
+_saveNow@resource://gre/modules/addons/AddonRepository.jsm:879:19
+save/this._saveTask<@resource://gre/modules/addons/AddonRepository.jsm:887:20
+_runTask@resource://gre/modules/DeferredTask.jsm:344:18
+_timerCallback/<@resource://gre/modules/DeferredTask.jsm:315:20
+_timerCallback@resource://gre/modules/DeferredTask.jsm:334:9
+finalize@resource://gre/modules/DeferredTask.jsm:286:12
+flush@resource://gre/modules/addons/AddonRepository.jsm:914:36
+save/<@resource://gre/modules/addons/AddonRepository.jsm:894:22
+trigger@resource://gre/modules/AsyncShutdown.jsm:747:23
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+[JavaScript Error: "1696198640927	Toolkit.Telemetry	ERROR	TelemetrySend::setup - _checkPendingPings rejected: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"(resource://gre/modules/AsyncShutdown.jsm:718:15) JS Stack trace: addBlocker@AsyncShutdown.jsm:718:15
+addBlocker@AsyncShutdown.jsm:526:26
+addBlocker@AsyncShutdown.jsm:465:15
+setupShutdown@osfile_async_front.jsm:1564:28
+@osfile_async_front.jsm:1584:16
+@osfile.jsm:11:30
+@TelemetryStorage.jsm:18:28
+_checkPendingPings@TelemetrySend.jsm:870:17
+setup@TelemetrySend.jsm:817:18
+setup@TelemetrySend.jsm:256:30
+setupTelemetry/this._delayedInitTask<@TelemetryControllerParent.jsm:843:31
+observe@AsyncShutdown.jsm:575:16" {file: "resource://gre/modules/Log.jsm" line: 729}]
+append@resource://gre/modules/Log.jsm:729:12
+log@resource://gre/modules/Log.jsm:385:16
+getLoggerWithMessagePrefix/proxy.log@resource://gre/modules/Log.jsm:514:18
+error@resource://gre/modules/Log.jsm:393:10
+setup@resource://gre/modules/TelemetrySend.jsm:819:17
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1696198640929	Toolkit.Telemetry	WARN	TelemetryEnvironment::registerChangeListener - already shutdown
+[JavaScript Error: "TelemetryScheduler.shutdown - Already shut down" {file: "resource://gre/modules/TelemetryScheduler.jsm" line: 135}]
+shutdown@resource://gre/modules/TelemetryScheduler.jsm:135:12
+cleanup@resource://gre/modules/TelemetrySession.jsm:1216:28
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1250:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:250:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:969:30
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+

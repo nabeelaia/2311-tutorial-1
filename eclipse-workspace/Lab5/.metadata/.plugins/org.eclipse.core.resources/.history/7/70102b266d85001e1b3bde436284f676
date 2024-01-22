@@ -1,0 +1,35 @@
+package test3practoce;
+
+public class Circle implements Shape  {
+private double radius;
+	@Override
+	public double permimeter() {
+		// TODO Auto-generated method stub
+		return (2*Math.PI*this.radius);
+	}
+
+	@Override
+	public double area() {
+		// TODO Auto-generated method stub
+		return (Math.PI*this.radius*this.radius);
+	}
+
+	public Circle(double radius) {
+		super();
+		this.radius = radius;
+	}
+
+	public double getRadius() {
+		return radius;
+	}
+
+	public void setRadius(double radius) {
+		this.radius = radius;
+	}
+
+	@Override
+	public String toString() {
+		return "Circle [radius=" + radius + "]";
+	}}
+
+	

@@ -1,0 +1,154 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="2" l="1687287618973" />
+    </e>
+    <e n="$Delete">
+      <i c="4" l="1692128229797" />
+    </e>
+    <e n="$Undo">
+      <i c="47" l="1692130564513" />
+    </e>
+    <e n="Android.ExportProjectZip">
+      <i c="6" l="1689711994154" />
+    </e>
+    <e n="CloseContent">
+      <i c="1" l="1686080248860" />
+    </e>
+    <e n="CompileDirty">
+      <i c="6" l="1692129341790" />
+    </e>
+    <e n="DebugClass">
+      <i c="7" l="1692125966257" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1703" l="1692131748130" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="28" l="1692131678515" />
+    </e>
+    <e n="EditorCopy">
+      <i c="72" l="1692131691227" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1692129636023" />
+    </e>
+    <e n="EditorDown">
+      <i c="13" l="1692125812859" />
+    </e>
+    <e n="EditorEnter">
+      <i c="233" l="1692131501005" />
+    </e>
+    <e n="EditorLeft">
+      <i c="113" l="1692131493308" />
+    </e>
+    <e n="EditorPaste">
+      <i c="120" l="1692131648420" />
+    </e>
+    <e n="EditorRight">
+      <i c="246" l="1692131530828" />
+    </e>
+    <e n="EditorToggleColumnMode">
+      <i c="1" l="1686687208711" />
+    </e>
+    <e n="EditorUp">
+      <i c="22" l="1692128534149" />
+    </e>
+    <e n="ExportSettings">
+      <i c="1" l="1686687029136" />
+    </e>
+    <e n="ExportToEclipse">
+      <i c="4" l="1687292799837" />
+    </e>
+    <e n="ExportToHTML">
+      <i c="2" l="1687292483349" />
+    </e>
+    <e n="Generate">
+      <i c="1" l="1686687191600" />
+    </e>
+    <e n="GotoClass">
+      <i c="1" l="1687286472337" />
+    </e>
+    <e n="NewClass">
+      <i c="23" l="1692131640771" />
+    </e>
+    <e n="NewElementSamePlace">
+      <i c="1" l="1686687180905" />
+    </e>
+    <e n="NewProject">
+      <i c="11" l="1692131150125" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="1" l="1692125176365" />
+    </e>
+    <e n="OpenFile">
+      <i c="3" l="1687286463542" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="1" l="1686687214880" />
+    </e>
+    <e n="Run">
+      <i c="74" l="1692131035269" />
+    </e>
+    <e n="RunClass">
+      <i c="18" l="1692131778178" />
+    </e>
+    <e n="SaveAll">
+      <i c="3" l="1687292478365" />
+    </e>
+    <e n="SaveFileAsTemplate">
+      <i c="1" l="1686686834386" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1686683045033" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="8" l="1692128556285" />
+    </e>
+    <e n="Stop">
+      <i c="3" l="1689709381336" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="3" l="1692130101478" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="3" l="1692124171509" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$1">
+      <i c="3" l="1688498413856" />
+    </e>
+    <e n="com.intellij.compiler.progress.BuildOutputService$3">
+      <i c="1" l="1686080272475" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SaveTemporaryAction">
+      <i c="1" l="1686080431188" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$DeleteBackspaceHandler">
+      <i c="18" l="1692128627411" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
+      <i c="69" l="1692130138100" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="2" l="1689710878385" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1686080584985" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="66" l="1692131734017" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="8" l="1692129577588" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="4" l="1692125977983" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1689710290216" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="3" l="1686080627254" />
+    </e>
+  </component>
+</application>

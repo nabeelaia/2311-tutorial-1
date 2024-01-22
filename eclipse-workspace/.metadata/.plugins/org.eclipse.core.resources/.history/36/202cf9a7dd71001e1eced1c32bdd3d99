@@ -1,0 +1,18 @@
+package quiz;
+
+public class personapp {
+	public static void main(String[] args) {
+		author author = new author ("Eric");
+		book Book = new book("hustle", author);
+		System.out.println(Book);
+		System.out.println(author);
+		book book2= new book("castle", author);
+		book book3=new book("gaza", author);
+		System.out.println(book2);
+		System.out.println(book3);
+		
+		
+		
+	}
+
+}

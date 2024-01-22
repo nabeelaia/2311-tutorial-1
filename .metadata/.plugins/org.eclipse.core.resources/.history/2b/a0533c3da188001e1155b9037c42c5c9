@@ -1,0 +1,57 @@
+package prac;
+
+import java.util.ArrayList;
+import java.util.Objects;
+
+public class personn implements Cloneable{
+public String name;
+private ArrayList <String> listoftasks;
+public personn(String name, ArrayList<String> listoftasks) {
+	super();
+	this.name = name;
+	this.listoftasks = listoftasks;
+}
+public String getName() {
+	return name;
+}
+public void setName(String name) {
+	this.name = name;
+}
+public ArrayList<String> getListoftasks() {
+	return listoftasks;
+}
+public void setListoftasks(ArrayList<String> listoftasks) {
+	this.listoftasks = listoftasks;
+}
+@Override
+public String toString() {
+	return " [ listoftasks=" + listoftasks + "]";
+}
+
+@Override
+public int hashCode() {
+	return Objects.hash(listoftasks);
+}
+@Override
+public boolean equals(Object obj) {
+	if (this == obj)
+		return true;
+	if (obj == null)
+		return false;
+	if (getClass() != obj.getClass())
+		return false;
+	personn other = (personn) obj;
+	return Objects.equals(listoftasks, other.listoftasks);
+}
+@Override
+public personn clone() throws CloneNotSupportedException {
+	try {
+		personn p = (personn) super.clone();
+		return p;
+	}
+	catch(CloneNotSupportedException e) {
+throw new RuntimeException (e.getMessage());
+}
+	
+}}
+

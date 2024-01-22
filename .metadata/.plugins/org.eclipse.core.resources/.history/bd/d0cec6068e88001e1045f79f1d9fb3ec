@@ -1,0 +1,16 @@
+package prac;
+
+import java.util.ArrayList;
+
+public class runneer {
+
+	public static void main(String[] args) {
+		
+	ArrayList<String> aset= new ArrayList<>();
+	aset.add("Reading");
+	aset.add("writing");
+personn person1= new personn("AAA",aset);
+
+	}
+
+}

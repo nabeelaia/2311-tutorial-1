@@ -1,0 +1,3 @@
+# This file is created by ibus-daemon, please do not modify it
+IBUS_ADDRESS=unix:abstract=/tmp/dbus-CloNEGUj,guid=05200ec05cb43b4ad44f45e76557ae81
+IBUS_DAEMON_PID=3970977

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="JunitTest_SchoolManager" project="Lab5" tests="38" started="38" failures="7" errors="1" ignored="0">
+  <testsuite name="lab5.JunitTest_SchoolManager" time="0.067">
+    <testcase name="test_01_01_" classname="lab5.JunitTest_SchoolManager" time="0.005"/>
+    <testcase name="test_01_02_" classname="lab5.JunitTest_SchoolManager" time="0.001"/>
+    <testcase name="test_01_03_" classname="lab5.JunitTest_SchoolManager" time="0.007">
+      <failure>
+        <expected>{Alice (ID: T124)}</expected>
+        <actual>Employee{name='Alice', age=28, employeeId='T124'}</actual>
+        org.junit.ComparisonFailure: 
+ Test Employee toString failed. Returned (Employee{name='Alice', age=28, employeeId='T124'}) but correct is ({Alice (ID: T124)}) expected:&lt;[{Alice (ID: T124)]}&gt; but was:&lt;[Employee{name='Alice', age=28, employeeId='T124']}&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at lab5.JunitTest_SchoolManager.test_01_03_(JunitTest_SchoolManager.java:105)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+      </failure>
+    </testcase>
+    <testcase name="test_01_04_" classname="lab5.JunitTest_SchoolManager" time="0.001">
+      <failure>
+        <expected>{Mike (ID: T104)}</expected>
+        <actual>Employee{name='Mike', age=40, employeeId='T104'}</actual>
+        org.junit.ComparisonFailure: 
+ Test Employee toString failed. Returned (Employee{name='Mike', age=40, employeeId='T104'}) but correct is ({Mike (ID: T104)}) expected:&lt;[{Mike (ID: T104)]}&gt; but was:&lt;[Employee{name='Mike', age=40, employeeId='T104']}&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at lab5.JunitTest_SchoolManager.test_01_04_(JunitTest_SchoolManager.java:127)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+      </failure>
+    </testcase>
+    <testcase name="test_01_05_" classname="lab5.JunitTest_SchoolManager" time="0.0"/>
+    <testcase name="test_02_01_" classname="lab5.JunitTest_SchoolManager" time="0.003"/>
+    <testcase name="test_02_02_" classname="lab5.JunitTest_SchoolManager" time="0.004"/>
+    <testcase name="test_02_03_" classname="lab5.JunitTest_SchoolManager" time="0.001"/>
+    <testcase name="test_02_04_" classname="lab5.JunitTest_SchoolManager" time="0.0"/>
+    <testcase name="test_02_05_" classname="lab5.JunitTest_SchoolManager" time="0.001"/>
+    <testcase name="test_02_06_" classname="lab5.JunitTest_SchoolManager" time="0.0"/>
+    <testcase name="test_02_07_" classname="lab5.JunitTest_SchoolManager" time="0.001"/>
+    <testcase name="test_02_08_" classname="lab5.JunitTest_SchoolManager" time="0.0"/>
+    <testcase name="test_02_09_" classname="lab5.JunitTest_SchoolManager" time="0.0"/>
+    <testcase name="test_02_10_" classname="lab5.JunitTest_SchoolManager" time="0.001"/>
+    <testcase name="test_02_11_" classname="lab5.JunitTest_SchoolManager" time="0.001"/>
+    <testcase name="test_02_12_" classname="lab5.JunitTest_SchoolManager" time="0.0"/>
+    <testcase name="test_02_13_" classname="lab5.JunitTest_SchoolManager" time="0.0"/>
+    <testcase name="test_02_14_" classname="lab5.JunitTest_SchoolManager" time="0.001"/>
+    <testcase name="test_03_01_" classname="lab5.JunitTest_SchoolManager" time="0.002"/>
+    <testcase name="test_03_02_" classname="lab5.JunitTest_SchoolManager" time="0.0"/>
+    <testcase name="test_03_03_" classname="lab5.JunitTest_SchoolManager" time="0.001"/>
+    <testcase name="test_03_04_" classname="lab5.JunitTest_SchoolManager" time="0.0"/>
+    <testcase name="test_03_05_" classname="lab5.JunitTest_SchoolManager" time="0.001"/>
+    <testcase name="test_03_06_" classname="lab5.JunitTest_SchoolManager" time="0.0"/>
+    <testcase name="test_03_07_" classname="lab5.JunitTest_SchoolManager" time="0.001"/>
+    <testcase name="test_03_08_" classname="lab5.JunitTest_SchoolManager" time="0.001">
+      <failure>
+        <expected>[ElementC0, ElementC1]</expected>
+        <actual>[ElementC1, ElementC0]</actual>
+        org.junit.ComparisonFailure: MySet: remove() for MySet does not remove the first element correctly. expected:&lt;[ElementC[0, ElementC1]]&gt; but was:&lt;[ElementC[1, ElementC0]]&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at lab5.JunitTest_SchoolManager.test_03_08_(JunitTest_SchoolManager.java:481)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+      </failure>
+    </testcase>
+    <testcase name="test_03_09_" classname="lab5.JunitTest_SchoolManager" time="0.0">
+      <failure>
+        <expected>[ElementA0, ElementA1, ElementC0, ElementC1]</expected>
+        <actual>[ElementA0, ElementA1, ElementC1, ElementC0]</actual>
+        org.junit.ComparisonFailure: MySet: remove() for MySet does not remove the last element correctly. expected:&lt;... ElementA1, ElementC[0, ElementC1]]&gt; but was:&lt;... ElementA1, ElementC[1, ElementC0]]&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at lab5.JunitTest_SchoolManager.test_03_09_(JunitTest_SchoolManager.java:499)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+      </failure>
+    </testcase>
+    <testcase name="test_03_10_" classname="lab5.JunitTest_SchoolManager" time="0.022"/>
+    <testcase name="test_03_11_" classname="lab5.JunitTest_SchoolManager" time="0.0"/>
+    <testcase name="test_03_12_" classname="lab5.JunitTest_SchoolManager" time="0.003"/>
+    <testcase name="test_04_01_" classname="lab5.JunitTest_SchoolManager" time="0.002"/>
+    <testcase name="test_04_02_" classname="lab5.JunitTest_SchoolManager" time="0.0"/>
+    <testcase name="test_04_03_" classname="lab5.JunitTest_SchoolManager" time="0.0"/>
+    <testcase name="test_04_04_" classname="lab5.JunitTest_SchoolManager" time="0.001">
+      <failure>
+        <expected>Overtime List: No employees in the overtime list.</expected>
+        <actual>Overtime List:
+</actual>
+        org.junit.ComparisonFailure: expected:&lt;Overtime List:[ No employees in the overtime list.]&gt; but was:&lt;Overtime List:[
+]&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at lab5.JunitTest_SchoolManager.test_04_04_(JunitTest_SchoolManager.java:612)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+      </failure>
+    </testcase>
+    <testcase name="test_04_05_" classname="lab5.JunitTest_SchoolManager" time="0.001">
+      <failure>
+        <expected>Registration List: No employees in the registration list.</expected>
+        <actual>Seminar Registration List:
+</actual>
+        org.junit.ComparisonFailure: expected:&lt;[Registration List: No employees in the registration list.]&gt; but was:&lt;[Seminar Registration List:
+]&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at lab5.JunitTest_SchoolManager.test_04_05_(JunitTest_SchoolManager.java:619)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+      </failure>
+    </testcase>
+    <testcase name="test_04_06_" classname="lab5.JunitTest_SchoolManager" time="0.001">
+      <failure>
+        <expected>Overtime List: [{John (ID: T123)}, {Alice (ID: E125)}, {Alice (ID: E125)}]</expected>
+        <actual>Overtime List:
+Employee{name='John', age=30, employeeId='T123'}
+Employee{name='Alice', age=25, employeeId='E125'}
+Employee{name='Alice', age=25, employeeId='E125'}
+</actual>
+        org.junit.ComparisonFailure: expected:&lt;Overtime List:[ [{John (ID: T123)}, {Alice (ID: E125)}, {Alice (ID: E125)}]]&gt; but was:&lt;Overtime List:[
+Employee{name='John', age=30, employeeId='T123'}
+Employee{name='Alice', age=25, employeeId='E125'}
+Employee{name='Alice', age=25, employeeId='E125'}
+]&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at lab5.JunitTest_SchoolManager.test_04_06_(JunitTest_SchoolManager.java:631)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+      </failure>
+    </testcase>
+    <testcase name="test_04_07_" classname="lab5.JunitTest_SchoolManager" time="0.001">
+      <error>java.lang.NullPointerException: Cannot invoke "lab5.Employee.toString()" because "employee" is null
+	at lab5.SchoolManager.displaySeminarRegistrationList(SchoolManager.java:365)
+	at lab5.JunitTest_SchoolManager.test_04_07_(JunitTest_SchoolManager.java:643)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

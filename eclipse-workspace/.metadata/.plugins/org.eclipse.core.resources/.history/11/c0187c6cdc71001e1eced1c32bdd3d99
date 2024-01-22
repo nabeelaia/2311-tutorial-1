@@ -1,0 +1,49 @@
+
+package quiz;
+
+public class book{
+	private String Book;
+	private String author = ("Eric");
+	public book(String book, author author) {
+		super();
+		this.Book = book;		
+	}
+	public String getBook() {
+		return Book;
+	}
+	public void setBook(String book) {
+		Book = book;
+	}
+	public String getAuthor() {
+		return author;
+	}
+	public void setAuthor(String author) {
+		this.author = author;
+	}
+	@Override
+	public String toString() {
+		return "book [Book=" + Book + ", author=" + author + "]";
+	}
+	
+	}
+	
+	
+
+
+
+
+
+class author{
+	private String name;
+
+	public author(String name) {
+		super();
+		this.name = name;
+	}
+
+	@Override
+	public String toString() {
+		return "author [name=" + name + "]";
+	}
+	
+}

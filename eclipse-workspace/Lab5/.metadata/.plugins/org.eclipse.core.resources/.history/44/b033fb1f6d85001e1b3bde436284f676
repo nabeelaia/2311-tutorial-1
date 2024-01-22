@@ -1,0 +1,19 @@
+package test3practoce;
+
+public class runner {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		Circle C1 = new Circle(1.5);
+	System.out.println(C1.area());
+	System.out.println(C1.permimeter());
+	
+	Circle C2 = new Circle(1.4);
+	System.out.println(C2.area());
+	System.out.println(C2.permimeter());
+
+	}
+
+}

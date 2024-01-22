@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="MAVEN_REPOSITORY" value="/eecs/home/nabeela1/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="/eecs/local/pkg/idea-ic-2021.2.3/plugins/Kotlin/kotlinc" />
+  </component>
+</application>

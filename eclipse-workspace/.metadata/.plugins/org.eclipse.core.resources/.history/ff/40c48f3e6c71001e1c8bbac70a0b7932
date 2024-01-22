@@ -1,0 +1,20 @@
+package quiz;
+
+public class personapp {
+	public static void main(String[] args) {
+		passport passport = new passport("A001");
+		System.out.println(passport);
+		person person = new person("eRIC", passport);
+		System.out.println(person);
+		
+	passport.setNumber("c001");
+	System.out.println(person);
+	
+		
+		
+	
+		
+		
+	}
+
+}

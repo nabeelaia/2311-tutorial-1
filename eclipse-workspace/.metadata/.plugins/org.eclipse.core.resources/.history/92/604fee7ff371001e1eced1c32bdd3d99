@@ -1,0 +1,34 @@
+package quiz;
+
+public class personapp {
+	public static void main(String[] args) {
+		 Book book1 = new Book("mrsmolly", 30, "math");
+	        Book book2 = new Book("mrsmolly", 25, "science");
+
+
+	        if (book1.isValidCourse(book1.getCourse())) {
+	            System.out.println("Course is valid: " + book1.getCourse());
+	        } else {
+	            System.out.println("Course is not valid: " + book1.getCourse());
+	        }
+
+	        if (book1.isValidStudents(book1.getStudents())) {
+	            System.out.println("Number of students is valid: " + book1.getStudents());
+	        } else {
+	            System.out.println("Number of students is not valid: " + book1.getStudents());
+	        }
+
+	        // Printing book details using toString method
+	        System.out.println(book1.toString());
+	        System.out.println(book2.toString());
+	    }
+	}
+
+
+
+
+
+
+		
+	
+

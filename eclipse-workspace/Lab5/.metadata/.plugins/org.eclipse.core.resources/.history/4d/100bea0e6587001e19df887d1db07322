@@ -1,0 +1,55 @@
+package test3practoce;
+
+public class Circle implements Shape{
+private double length;
+private double height;
+public static int circlenumber=1;
+public int Circleid;
+this.Circleid = ++this.circlenumber;
+
+
+	@Override
+	public double Area() {
+		return (this.length*this.height);
+	}
+
+	@Override
+	public double perm() {
+		return (2*this.length+2*this.height);
+	}
+
+	public Circle(double length, double height) {
+		super();
+		this.length = length;
+		this.height = height;
+	}
+
+	public double getLength() {
+		return length;
+	}
+
+	public void setLength(double length) {
+		this.length = length;
+	}
+
+	public double getHeight() {
+		return height;
+	}
+
+	public void setHeight(double height) {
+		this.height = height;
+	}
+
+	
+
+
+
+	@Override
+	public String toString() {
+		return "Circle [length=" + length + ", height=" + height + "]";
+	}
+
+	
+}
+
+	

@@ -1,0 +1,23 @@
+package prac;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+
+public class runneer {
+
+	public static void main(String[] args) {
+		
+	ArrayList<String> aset= new ArrayList<>();
+	aset.add("Reading");
+	aset.add("writing");
+personn person1= new personn("AAA",aset);
+personn b = person1.clone();
+aset.add("swimming");
+System.out.println(person1);
+System.out.println(b);
+	}
+HashSet<personn> alist = new HashSet<>();{
+
+System.out.println(alist.size());
+				
+}}

@@ -1,0 +1,99 @@
+[org/gnome/evolution-data-server]
+migrated=true
+
+network-monitor-gio-name=''
+
+[org/gnome/shell]
+favorite-apps=['firefox.desktop', 'thunderbird.desktop', 'org.gnome.Terminal.desktop', 'eclipse.desktop', 'org.gnome.Nautilus.desktop']
+
+app-picker-view=uint32 1
+
+[org/gnome/desktop/interface]
+gtk-im-module='gtk-im-context-simple'
+
+[org/gnome/desktop/input-sources]
+sources=[('xkb', 'us')]
+xkb-options=@as []
+
+[org/gnome/software]
+check-timestamp=int64 1705948007
+
+install-timestamp=int64 1669841923
+
+[org/gnome/desktop/notifications/application/org-gnome-software]
+application-id='org.gnome.Software.desktop'
+
+[org/gnome/desktop/notifications]
+application-children=['org-gnome-software', 'calc']
+
+[org/gnome/settings-daemon/peripherals/keyboard]
+numlock-state='off'
+
+[org/gnome/desktop/privacy]
+disable-microphone=false
+
+[org/gtk/settings/file-chooser]
+window-position=(272, 47)
+window-size=(896, 639)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+sidebar-width=163
+sort-column='name'
+sort-directories-first=false
+sort-order='descending'
+
+[org/gnome/nautilus/preferences]
+search-filter-time-type='last_modified'
+default-folder-viewer='icon-view'
+
+[org/gnome/file-roller/listing]
+show-path=false
+
+name-column-width=250
+
+sort-method='name'
+
+sort-type='descending'
+
+list-mode='as-folder'
+
+[org/gnome/file-roller/ui]
+window-width=600
+window-height=480
+sidebar-width=200
+
+[org/gnome/nautilus/window-state]
+initial-size=(890, 550)
+maximized=false
+
+[org/gnome/terminal/legacy]
+schema-version=uint32 3
+
+[org/gnome/gedit/plugins]
+active-plugins=['time', 'spell', 'modelines', 'filebrowser', 'docinfo']
+
+[org/gnome/gedit/preferences/ui]
+show-tabs-mode='auto'
+
+[org/gnome/gedit/plugins/filebrowser]
+tree-view=true
+root='file:///'
+virtual-root='file:///cs/home/nabeela1'
+
+[org/gnome/gedit/state/window]
+bottom-panel-size=140
+side-panel-active-page='GeditWindowDocumentsPanel'
+side-panel-size=200
+size=(900, 700)
+state=87168
+
+[org/gnome/desktop/notifications/application/calc]
+application-id='calc.desktop'
+
+[org/gnome/desktop/lockdown]
+disable-lock-screen=true
+
+[org/gnome/control-center]
+last-panel='display'

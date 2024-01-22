@@ -1,0 +1,8 @@
+package test3practoce;
+
+public interface Shape {
+
+	public double permimeter();
+	public double area ();
+	
+}
