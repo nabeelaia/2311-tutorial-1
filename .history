@@ -4,8 +4,6 @@ rvs &
 cat test.txt
 #+1705950613
 nano test.txt
-#+1705950709
-git add .
 #+1705950714
 git commit
 #+1705951068
@@ -14,5 +12,27 @@ ls
 test1_change.txt test2.txt
 #+1705951149
 git mv test1.txt test1_change.txt
-#+1705951154
+#+1706419664
+:!
+#+1706419719
+git status-- since=2024-01-28
+#+1706419731
+git status --since=2024-01-28
+#+1706419784
+git log --since=2024-01-28
+#+1706419803
+git log
+#+1706419906
+git commit -m "I am Nabeela"
+#+1706420063
+git add "testt2.txt"
+#+1706420098
+git commit -m "i added my name"
+#+1706420126
 git status
+#+1706420170
+git add ".local/share/xrdp/xrdp-chansrv.16.log"
+#+1706420177
+git add .
+#+1706420188
+git commit .
