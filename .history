@@ -1,7 +1,5 @@
 #+1696287691
 rvs &
-#+1705950157
-git status
 #+1705950605
 cat test.txt
 #+1705950613
@@ -10,3 +8,11 @@ nano test.txt
 git add .
 #+1705950714
 git commit
+#+1705951068
+ls
+#+1705951106
+test1_change.txt test2.txt
+#+1705951149
+git mv test1.txt test1_change.txt
+#+1705951154
+git status

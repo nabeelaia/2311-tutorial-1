@@ -466,3 +466,39 @@ X Protocol Version 11, Revision 0
 [250503.980] (II) modeset(0): Modeline "800x600"x0.0   49.50  800 816 896 1056  600 601 604 625 +hsync +vsync (46.9 kHz e)
 [250503.980] (II) modeset(0): Modeline "1152x864"x0.0  108.00  1152 1216 1344 1600  864 865 868 900 +hsync +vsync (67.5 kHz e)
 [250503.980] (II) modeset(0): Modeline "1280x1024"x0.0  108.00  1280 1328 1440 1688  1024 1025 1028 1066 +hsync +vsync (64.0 kHz e)
+[257391.465] (**) Option "fd" "28"
+[257391.465] (II) event2  - Video Bus: device removed
+[257391.465] (**) Option "fd" "31"
+[257391.465] (II) event0  - Power Button: device removed
+[257391.465] (**) Option "fd" "32"
+[257391.465] (II) event1  - Sleep Button: device removed
+[257391.465] (**) Option "fd" "33"
+[257391.465] (II) event3  - Dell KB216 Wired Keyboard: device removed
+[257391.465] (**) Option "fd" "34"
+[257391.465] (**) Option "fd" "35"
+[257391.465] (II) event5  - Dell KB216 Wired Keyboard System Control: device removed
+[257391.465] (**) Option "fd" "36"
+[257391.465] (II) event6  - DELL Laser Mouse: device removed
+[257391.465] (**) Option "fd" "37"
+[257391.465] (II) event8  - Dell WMI hotkeys: device removed
+[257391.465] (**) Option "fd" "34"
+[257391.465] (II) event4  - Dell KB216 Wired Keyboard Consumer Control: device removed
+[257391.481] (II) UnloadModule: "libinput"
+[257391.481] (II) systemd-logind: not releasing fd for 13:68, still in use
+[257391.481] (II) UnloadModule: "libinput"
+[257391.481] (II) systemd-logind: releasing fd for 13:72
+[257391.509] (II) UnloadModule: "libinput"
+[257391.509] (II) systemd-logind: releasing fd for 13:70
+[257391.533] (II) UnloadModule: "libinput"
+[257391.533] (II) systemd-logind: releasing fd for 13:69
+[257391.542] (II) UnloadModule: "libinput"
+[257391.542] (II) systemd-logind: releasing fd for 13:68
+[257391.555] (II) UnloadModule: "libinput"
+[257391.555] (II) systemd-logind: releasing fd for 13:67
+[257391.564] (II) UnloadModule: "libinput"
+[257391.564] (II) systemd-logind: releasing fd for 13:65
+[257391.570] (II) UnloadModule: "libinput"
+[257391.570] (II) systemd-logind: releasing fd for 13:64
+[257391.576] (II) UnloadModule: "libinput"
+[257391.576] (II) systemd-logind: releasing fd for 13:66
+[257391.615] (II) Server terminated successfully (0). Closing log file.

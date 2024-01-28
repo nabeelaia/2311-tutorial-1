@@ -16,7 +16,7 @@ sources=[('xkb', 'us')]
 xkb-options=@as []
 
 [org/gnome/software]
-check-timestamp=int64 1705948007
+check-timestamp=int64 1706417720
 
 install-timestamp=int64 1669841923
 
