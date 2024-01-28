@@ -1,0 +1,180 @@
+[20240128-03:35:56] [INFO ] Socket 12: AF_UNIX connection received
+[20240128-03:35:56] [INFO ] sound_process_output_format:
+[20240128-03:35:56] [INFO ]       wFormatNo       0
+[20240128-03:35:56] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:35:56] [INFO ]       nChannels       2
+[20240128-03:35:56] [INFO ]       nSamplesPerSec  44100
+[20240128-03:35:56] [INFO ]       nAvgBytesPerSec 176400
+[20240128-03:35:56] [INFO ]       nBlockAlign     4
+[20240128-03:35:56] [INFO ]       wBitsPerSample  16
+[20240128-03:35:56] [INFO ]       cbSize          0
+[20240128-03:35:56] [INFO ] sound_process_output_format:
+[20240128-03:35:56] [INFO ]       wFormatNo       1
+[20240128-03:35:56] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:35:56] [INFO ]       nChannels       2
+[20240128-03:35:56] [INFO ]       nSamplesPerSec  22050
+[20240128-03:35:56] [INFO ]       nAvgBytesPerSec 88200
+[20240128-03:35:56] [INFO ]       nBlockAlign     4
+[20240128-03:35:56] [INFO ]       wBitsPerSample  16
+[20240128-03:35:56] [INFO ]       cbSize          0
+[20240128-03:35:56] [INFO ] sound_process_training: round trip time 100
+[20240128-03:39:16] [INFO ] Socket 14: AF_UNIX connection received
+[20240128-03:39:16] [INFO ] sound_process_output_format:
+[20240128-03:39:16] [INFO ]       wFormatNo       0
+[20240128-03:39:16] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:39:16] [INFO ]       nChannels       2
+[20240128-03:39:16] [INFO ]       nSamplesPerSec  44100
+[20240128-03:39:16] [INFO ]       nAvgBytesPerSec 176400
+[20240128-03:39:16] [INFO ]       nBlockAlign     4
+[20240128-03:39:16] [INFO ]       wBitsPerSample  16
+[20240128-03:39:16] [INFO ]       cbSize          0
+[20240128-03:39:16] [INFO ] sound_process_output_format:
+[20240128-03:39:16] [INFO ]       wFormatNo       1
+[20240128-03:39:16] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:39:16] [INFO ]       nChannels       2
+[20240128-03:39:16] [INFO ]       nSamplesPerSec  22050
+[20240128-03:39:16] [INFO ]       nAvgBytesPerSec 88200
+[20240128-03:39:16] [INFO ]       nBlockAlign     4
+[20240128-03:39:16] [INFO ]       wBitsPerSample  16
+[20240128-03:39:16] [INFO ]       cbSize          0
+[20240128-03:39:16] [INFO ] sound_process_training: round trip time 100
+[20240128-03:39:18] [INFO ] Socket 14: AF_UNIX connection received
+[20240128-03:39:18] [INFO ] sound_process_output_format:
+[20240128-03:39:18] [INFO ]       wFormatNo       0
+[20240128-03:39:18] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:39:18] [INFO ]       nChannels       2
+[20240128-03:39:18] [INFO ]       nSamplesPerSec  44100
+[20240128-03:39:18] [INFO ]       nAvgBytesPerSec 176400
+[20240128-03:39:18] [INFO ]       nBlockAlign     4
+[20240128-03:39:18] [INFO ]       wBitsPerSample  16
+[20240128-03:39:18] [INFO ]       cbSize          0
+[20240128-03:39:18] [INFO ] sound_process_output_format:
+[20240128-03:39:18] [INFO ]       wFormatNo       1
+[20240128-03:39:18] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:39:18] [INFO ]       nChannels       2
+[20240128-03:39:18] [INFO ]       nSamplesPerSec  22050
+[20240128-03:39:18] [INFO ]       nAvgBytesPerSec 88200
+[20240128-03:39:18] [INFO ]       nBlockAlign     4
+[20240128-03:39:18] [INFO ]       wBitsPerSample  16
+[20240128-03:39:18] [INFO ]       cbSize          0
+[20240128-03:39:18] [INFO ] sound_process_training: round trip time 101
+[20240128-03:42:01] [INFO ] Socket 14: AF_UNIX connection received
+[20240128-03:42:01] [INFO ] sound_process_output_format:
+[20240128-03:42:01] [INFO ]       wFormatNo       0
+[20240128-03:42:01] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:42:01] [INFO ]       nChannels       2
+[20240128-03:42:01] [INFO ]       nSamplesPerSec  44100
+[20240128-03:42:01] [INFO ]       nAvgBytesPerSec 176400
+[20240128-03:42:01] [INFO ]       nBlockAlign     4
+[20240128-03:42:01] [INFO ]       wBitsPerSample  16
+[20240128-03:42:01] [INFO ]       cbSize          0
+[20240128-03:42:01] [INFO ] sound_process_output_format:
+[20240128-03:42:01] [INFO ]       wFormatNo       1
+[20240128-03:42:01] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:42:01] [INFO ]       nChannels       2
+[20240128-03:42:01] [INFO ]       nSamplesPerSec  22050
+[20240128-03:42:01] [INFO ]       nAvgBytesPerSec 88200
+[20240128-03:42:01] [INFO ]       nBlockAlign     4
+[20240128-03:42:01] [INFO ]       wBitsPerSample  16
+[20240128-03:42:01] [INFO ]       cbSize          0
+[20240128-03:42:01] [INFO ] sound_process_training: round trip time 100
+[20240128-03:42:18] [INFO ] Socket 14: AF_UNIX connection received
+[20240128-03:42:18] [INFO ] sound_process_output_format:
+[20240128-03:42:18] [INFO ]       wFormatNo       0
+[20240128-03:42:18] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:42:18] [INFO ]       nChannels       2
+[20240128-03:42:18] [INFO ]       nSamplesPerSec  44100
+[20240128-03:42:18] [INFO ]       nAvgBytesPerSec 176400
+[20240128-03:42:18] [INFO ]       nBlockAlign     4
+[20240128-03:42:18] [INFO ]       wBitsPerSample  16
+[20240128-03:42:18] [INFO ]       cbSize          0
+[20240128-03:42:18] [INFO ] sound_process_output_format:
+[20240128-03:42:18] [INFO ]       wFormatNo       1
+[20240128-03:42:18] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:42:18] [INFO ]       nChannels       2
+[20240128-03:42:18] [INFO ]       nSamplesPerSec  22050
+[20240128-03:42:18] [INFO ]       nAvgBytesPerSec 88200
+[20240128-03:42:18] [INFO ]       nBlockAlign     4
+[20240128-03:42:18] [INFO ]       wBitsPerSample  16
+[20240128-03:42:18] [INFO ]       cbSize          0
+[20240128-03:42:18] [INFO ] sound_process_training: round trip time 100
+[20240128-03:44:12] [INFO ] Socket 14: AF_UNIX connection received
+[20240128-03:44:12] [INFO ] sound_process_output_format:
+[20240128-03:44:12] [INFO ]       wFormatNo       0
+[20240128-03:44:12] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:44:12] [INFO ]       nChannels       2
+[20240128-03:44:12] [INFO ]       nSamplesPerSec  44100
+[20240128-03:44:12] [INFO ]       nAvgBytesPerSec 176400
+[20240128-03:44:12] [INFO ]       nBlockAlign     4
+[20240128-03:44:12] [INFO ]       wBitsPerSample  16
+[20240128-03:44:12] [INFO ]       cbSize          0
+[20240128-03:44:12] [INFO ] sound_process_output_format:
+[20240128-03:44:12] [INFO ]       wFormatNo       1
+[20240128-03:44:12] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:44:12] [INFO ]       nChannels       2
+[20240128-03:44:12] [INFO ]       nSamplesPerSec  22050
+[20240128-03:44:12] [INFO ]       nAvgBytesPerSec 88200
+[20240128-03:44:12] [INFO ]       nBlockAlign     4
+[20240128-03:44:12] [INFO ]       wBitsPerSample  16
+[20240128-03:44:12] [INFO ]       cbSize          0
+[20240128-03:44:12] [INFO ] sound_process_training: round trip time 100
+[20240128-03:46:00] [INFO ] Socket 14: AF_UNIX connection received
+[20240128-03:46:00] [INFO ] sound_process_output_format:
+[20240128-03:46:00] [INFO ]       wFormatNo       0
+[20240128-03:46:00] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:46:00] [INFO ]       nChannels       2
+[20240128-03:46:00] [INFO ]       nSamplesPerSec  44100
+[20240128-03:46:00] [INFO ]       nAvgBytesPerSec 176400
+[20240128-03:46:00] [INFO ]       nBlockAlign     4
+[20240128-03:46:00] [INFO ]       wBitsPerSample  16
+[20240128-03:46:00] [INFO ]       cbSize          0
+[20240128-03:46:00] [INFO ] sound_process_output_format:
+[20240128-03:46:00] [INFO ]       wFormatNo       1
+[20240128-03:46:00] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:46:00] [INFO ]       nChannels       2
+[20240128-03:46:00] [INFO ]       nSamplesPerSec  22050
+[20240128-03:46:00] [INFO ]       nAvgBytesPerSec 88200
+[20240128-03:46:00] [INFO ]       nBlockAlign     4
+[20240128-03:46:00] [INFO ]       wBitsPerSample  16
+[20240128-03:46:00] [INFO ]       cbSize          0
+[20240128-03:46:00] [INFO ] sound_process_training: round trip time 100
+[20240128-03:47:43] [INFO ] Socket 14: AF_UNIX connection received
+[20240128-03:47:43] [INFO ] sound_process_output_format:
+[20240128-03:47:43] [INFO ]       wFormatNo       0
+[20240128-03:47:43] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:47:43] [INFO ]       nChannels       2
+[20240128-03:47:43] [INFO ]       nSamplesPerSec  44100
+[20240128-03:47:43] [INFO ]       nAvgBytesPerSec 176400
+[20240128-03:47:43] [INFO ]       nBlockAlign     4
+[20240128-03:47:43] [INFO ]       wBitsPerSample  16
+[20240128-03:47:43] [INFO ]       cbSize          0
+[20240128-03:47:43] [INFO ] sound_process_output_format:
+[20240128-03:47:43] [INFO ]       wFormatNo       1
+[20240128-03:47:43] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:47:43] [INFO ]       nChannels       2
+[20240128-03:47:43] [INFO ]       nSamplesPerSec  22050
+[20240128-03:47:43] [INFO ]       nAvgBytesPerSec 88200
+[20240128-03:47:43] [INFO ]       nBlockAlign     4
+[20240128-03:47:43] [INFO ]       wBitsPerSample  16
+[20240128-03:47:43] [INFO ]       cbSize          0
+[20240128-03:47:43] [INFO ] sound_process_training: round trip time 101
+[20240128-03:47:44] [INFO ] Socket 14: AF_UNIX connection received
+[20240128-03:47:44] [INFO ] sound_process_output_format:
+[20240128-03:47:44] [INFO ]       wFormatNo       0
+[20240128-03:47:44] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:47:44] [INFO ]       nChannels       2
+[20240128-03:47:44] [INFO ]       nSamplesPerSec  44100
+[20240128-03:47:44] [INFO ]       nAvgBytesPerSec 176400
+[20240128-03:47:44] [INFO ]       nBlockAlign     4
+[20240128-03:47:44] [INFO ]       wBitsPerSample  16
+[20240128-03:47:44] [INFO ]       cbSize          0
+[20240128-03:47:44] [INFO ] sound_process_output_format:
+[20240128-03:47:44] [INFO ]       wFormatNo       1
+[20240128-03:47:44] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20240128-03:47:44] [INFO ]       nChannels       2
+[20240128-03:47:44] [INFO ]       nSamplesPerSec  22050
+[20240128-03:47:44] [INFO ]       nAvgBytesPerSec 88200
+[20240128-03:47:44] [INFO ]       nBlockAlign     4
+[20240128-03:47:44] [INFO ]       wBitsPerSample  16
+[20240128-03:47:44] [INFO ]       cbSize          0
+[20240128-03:47:44] [INFO ] sound_process_training: round trip time 100
