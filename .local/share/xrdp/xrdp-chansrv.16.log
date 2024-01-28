@@ -420,3 +420,5 @@
 [20240128-00:47:17] [INFO ]       wBitsPerSample  16
 [20240128-00:47:17] [INFO ]       cbSize          0
 [20240128-00:47:17] [INFO ] sound_process_training: round trip time 100
+[20240128-00:56:08] [INFO ] Socket 14: AF_UNIX connection received
+[20240128-00:56:40] [INFO ] Socket 14: AF_UNIX connection received
