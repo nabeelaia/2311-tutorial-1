@@ -104,3 +104,252 @@ org.eclipse.swt.SWTException: Widget is disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
+!SESSION 2024-01-28 16:55:26.573 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-01-28 16:55:46.292
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-01-28 16:55:52.408
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2024-01-28 16:55:56.193
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-01-28 16:55:56.193
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-01-28 17:01:58.802
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-01-28 17:01:58.802
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2024-01-28 17:01:58.802
+!MESSAGE Git integration for Eclipse will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-01-28 17:01:58.802
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.802
+!MESSAGE Software being installed: Git integration for Eclipse - Source Code 6.8.0.202311291450-r (org.eclipse.egit.source.feature.group 6.8.0.202311291450-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.802
+!MESSAGE Software currently installed: Git integration for Eclipse 6.6.0.202305301015-r (org.eclipse.egit.feature.group 6.6.0.202305301015-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.802
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.802
+!MESSAGE Git integration for Eclipse - UI 6.6.0.202305301015-r (org.eclipse.egit.ui 6.6.0.202305301015-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.802
+!MESSAGE Git integration for Eclipse - UI 6.8.0.202311291450-r (org.eclipse.egit.ui 6.8.0.202311291450-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.802
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.802
+!MESSAGE From: Git integration for Eclipse 6.6.0.202305301015-r (org.eclipse.egit.feature.group 6.6.0.202305301015-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.802
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.6.0.202305301015-r,6.6.0.202305301015-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.802
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.802
+!MESSAGE From: Git integration for Eclipse 6.8.0.202311291450-r (org.eclipse.egit.feature.group 6.8.0.202311291450-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.802
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.8.0.202311291450-r,6.8.0.202311291450-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.802
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.802
+!MESSAGE From: Git integration for Eclipse - Source Code 6.8.0.202311291450-r (org.eclipse.egit.source.feature.group 6.8.0.202311291450-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.802
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.feature.group [6.8.0,6.9.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-01-28 17:01:58.805
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-01-28 17:01:58.805
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2024-01-28 17:01:58.805
+!MESSAGE Git integration for Eclipse will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-01-28 17:01:58.805
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.805
+!MESSAGE Software being installed: Git integration for Eclipse - Source Code 6.8.0.202311291450-r (org.eclipse.egit.source.feature.group 6.8.0.202311291450-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.805
+!MESSAGE Software currently installed: Git integration for Eclipse 6.6.0.202305301015-r (org.eclipse.egit.feature.group 6.6.0.202305301015-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.805
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.805
+!MESSAGE Git integration for Eclipse - UI 6.6.0.202305301015-r (org.eclipse.egit.ui 6.6.0.202305301015-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.805
+!MESSAGE Git integration for Eclipse - UI 6.8.0.202311291450-r (org.eclipse.egit.ui 6.8.0.202311291450-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.805
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.805
+!MESSAGE From: Git integration for Eclipse 6.6.0.202305301015-r (org.eclipse.egit.feature.group 6.6.0.202305301015-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.805
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.6.0.202305301015-r,6.6.0.202305301015-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.805
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.805
+!MESSAGE From: Git integration for Eclipse 6.8.0.202311291450-r (org.eclipse.egit.feature.group 6.8.0.202311291450-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.805
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.8.0.202311291450-r,6.8.0.202311291450-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.805
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.805
+!MESSAGE From: Git integration for Eclipse - Source Code 6.8.0.202311291450-r (org.eclipse.egit.source.feature.group 6.8.0.202311291450-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.805
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.feature.group [6.8.0,6.9.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-01-28 17:01:58.810
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-01-28 17:01:58.810
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2024-01-28 17:01:58.811
+!MESSAGE Git integration for Eclipse will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-01-28 17:01:58.811
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.811
+!MESSAGE Software being installed: Git integration for Eclipse - Source Code 6.8.0.202311291450-r (org.eclipse.egit.source.feature.group 6.8.0.202311291450-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.811
+!MESSAGE Software currently installed: Git integration for Eclipse 6.6.0.202305301015-r (org.eclipse.egit.feature.group 6.6.0.202305301015-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.811
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.811
+!MESSAGE Git integration for Eclipse - UI 6.6.0.202305301015-r (org.eclipse.egit.ui 6.6.0.202305301015-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.811
+!MESSAGE Git integration for Eclipse - UI 6.8.0.202311291450-r (org.eclipse.egit.ui 6.8.0.202311291450-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.811
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.811
+!MESSAGE From: Git integration for Eclipse 6.6.0.202305301015-r (org.eclipse.egit.feature.group 6.6.0.202305301015-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.811
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.6.0.202305301015-r,6.6.0.202305301015-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.811
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.811
+!MESSAGE From: Git integration for Eclipse 6.8.0.202311291450-r (org.eclipse.egit.feature.group 6.8.0.202311291450-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.811
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.8.0.202311291450-r,6.8.0.202311291450-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.811
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.811
+!MESSAGE From: Git integration for Eclipse - Source Code 6.8.0.202311291450-r (org.eclipse.egit.source.feature.group 6.8.0.202311291450-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.811
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.feature.group [6.8.0,6.9.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-01-28 17:01:58.811
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-01-28 17:01:58.811
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2024-01-28 17:01:58.811
+!MESSAGE Git integration for Eclipse will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-01-28 17:01:58.811
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.811
+!MESSAGE Software being installed: Git integration for Eclipse - Source Code 6.8.0.202311291450-r (org.eclipse.egit.source.feature.group 6.8.0.202311291450-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.811
+!MESSAGE Software currently installed: Git integration for Eclipse 6.6.0.202305301015-r (org.eclipse.egit.feature.group 6.6.0.202305301015-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.811
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.812
+!MESSAGE Git integration for Eclipse - UI 6.6.0.202305301015-r (org.eclipse.egit.ui 6.6.0.202305301015-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.812
+!MESSAGE Git integration for Eclipse - UI 6.8.0.202311291450-r (org.eclipse.egit.ui 6.8.0.202311291450-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.812
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.812
+!MESSAGE From: Git integration for Eclipse 6.6.0.202305301015-r (org.eclipse.egit.feature.group 6.6.0.202305301015-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.812
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.6.0.202305301015-r,6.6.0.202305301015-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.812
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.812
+!MESSAGE From: Git integration for Eclipse 6.8.0.202311291450-r (org.eclipse.egit.feature.group 6.8.0.202311291450-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.812
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.8.0.202311291450-r,6.8.0.202311291450-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-01-28 17:01:58.812
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.812
+!MESSAGE From: Git integration for Eclipse - Source Code 6.8.0.202311291450-r (org.eclipse.egit.source.feature.group 6.8.0.202311291450-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-01-28 17:01:58.812
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.feature.group [6.8.0,6.9.0)
+
+!ENTRY org.eclipse.equinox.preferences 4 4 2024-01-28 17:04:32.329
+!MESSAGE Exception saving preferences to: /eecs/home/nabeela1/.eclipse/org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/epp.package.jee.profile/.data/.settings/org.eclipse.equinox.p2.metadata.repository.prefs.
+!STACK 0
+java.nio.file.NoSuchFileException: /eecs/home/nabeela1/.eclipse/org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/epp.package.jee.profile/.data/.settings/org.eclipse.equinox.p2.metadata.repository.prefs.bak -> /eecs/home/nabeela1/.eclipse/org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/epp.package.jee.profile/.data/.settings/org.eclipse.equinox.p2.metadata.repository.prefs
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixCopyFile.move(UnixCopyFile.java:477)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.move(UnixFileSystemProvider.java:266)
+	at java.base/java.nio.file.Files.move(Files.java:1432)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.write(EclipsePreferences.java:292)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.save(EclipsePreferences.java:1066)
+	at org.eclipse.equinox.internal.p2.engine.ProfilePreferences.doSave(ProfilePreferences.java:141)
+	at org.eclipse.equinox.internal.p2.engine.ProfilePreferences$SaveJob.run(ProfilePreferences.java:54)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.engine 2 0 2024-01-28 17:04:32.353
+!MESSAGE Exception saving profile preferences
+!STACK 0
+org.osgi.service.prefs.BackingStoreException: Exception saving preferences to: /eecs/home/nabeela1/.eclipse/org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/epp.package.jee.profile/.data/.settings/org.eclipse.equinox.p2.metadata.repository.prefs.
+	at org.eclipse.core.internal.preferences.EclipsePreferences.write(EclipsePreferences.java:300)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.save(EclipsePreferences.java:1066)
+	at org.eclipse.equinox.internal.p2.engine.ProfilePreferences.doSave(ProfilePreferences.java:141)
+	at org.eclipse.equinox.internal.p2.engine.ProfilePreferences$SaveJob.run(ProfilePreferences.java:54)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.nio.file.NoSuchFileException: /eecs/home/nabeela1/.eclipse/org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/epp.package.jee.profile/.data/.settings/org.eclipse.equinox.p2.metadata.repository.prefs.bak -> /eecs/home/nabeela1/.eclipse/org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/epp.package.jee.profile/.data/.settings/org.eclipse.equinox.p2.metadata.repository.prefs
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixCopyFile.move(UnixCopyFile.java:477)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.move(UnixFileSystemProvider.java:266)
+	at java.base/java.nio.file.Files.move(Files.java:1432)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.write(EclipsePreferences.java:292)
+	... 4 more
+!SESSION 2024-01-28 17:04:48.047 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data file:/eecs/home/nabeela1/ -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-01-28 17:04:49.892
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.jface 2 0 2024-01-28 17:05:00.180
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-01-28 17:05:00.180
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui.navigator 4 0 2024-01-28 17:16:27.625
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "P/test-clone-". Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.

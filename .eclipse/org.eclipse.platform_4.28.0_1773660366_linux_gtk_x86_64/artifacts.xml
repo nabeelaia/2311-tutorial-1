@@ -1,14 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?artifactRepository version='1.1.0'?>
-<repository name='Bundle pool' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1'>
+<repository name='Bundle pool' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
   <properties size='2'>
     <property name='p2.system' value='true'/>
-    <property name='p2.timestamp' value='1696198614801'/>
+    <property name='p2.timestamp' value='1706479468191'/>
   </properties>
   <mappings size='3'>
     <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
     <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
     <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
   </mappings>
-  <artifacts size='0'/>
+  <artifacts size='5'>
+    <artifact classifier='osgi.bundle' id='org.eclipse.egit.ui.source' version='6.6.0.202305301015-r'>
+      <properties size='1'>
+        <property name='download.size' value='2070631'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.egit.source' version='6.6.0.202305301015-r'>
+      <properties size='1'>
+        <property name='download.size' value='21333'/>
+      </properties>
+      <repositoryProperties size='1'>
+        <property name='artifact.folder' value='true'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.egit.gitflow.ui.source' version='6.6.0.202305301015-r'>
+      <properties size='1'>
+        <property name='download.size' value='68699'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.egit.gitflow.source' version='6.6.0.202305301015-r'>
+      <properties size='1'>
+        <property name='download.size' value='45499'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.egit.core.source' version='6.6.0.202305301015-r'>
+      <properties size='1'>
+        <property name='download.size' value='379167'/>
+      </properties>
+    </artifact>
+  </artifacts>
 </repository>

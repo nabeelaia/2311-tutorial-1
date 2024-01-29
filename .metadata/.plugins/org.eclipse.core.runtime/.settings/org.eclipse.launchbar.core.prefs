@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:runneer,org.eclipse.launchbar.core.descriptorType.default\:ikr
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:ikr,org.eclipse.launchbar.core.descriptorType.default\:runneer,org.eclipse.launchbar.core.descriptorType.default\:JunitTest_SoccerTeam,org.eclipse.launchbar.core.descriptorType.default\:JunitTest_TestingExample,org.eclipse.launchbar.core.descriptorType.default\:personapp,org.eclipse.launchbar.core.descriptorType.default\:JunitTest_SchoolManager,org.eclipse.launchbar.core.descriptorType.default\:runner
 eclipse.preferences.version=1
 org.eclipse.launchbar.core.descriptorType.default\:runneer/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:runneer/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

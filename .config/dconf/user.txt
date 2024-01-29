@@ -16,7 +16,7 @@ sources=[('xkb', 'us')]
 xkb-options=@as []
 
 [org/gnome/software]
-check-timestamp=int64 1706417720
+check-timestamp=int64 1706546368
 
 install-timestamp=int64 1669841923
 
@@ -33,7 +33,7 @@ numlock-state='off'
 disable-microphone=false
 
 [org/gtk/settings/file-chooser]
-window-position=(272, 47)
+window-position=(249, 47)
 window-size=(896, 639)
 date-format='regular'
 location-mode='path-bar'

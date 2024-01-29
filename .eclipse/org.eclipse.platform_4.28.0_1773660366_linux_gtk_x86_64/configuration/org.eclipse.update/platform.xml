@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<config date="1696198612533" shared_ur="file:configuration/org.eclipse.update/platform.xml" transient="false" version="3.0">
+<config date="1706479475173" transient="false" shared_ur="file:configuration/org.eclipse.update/platform.xml" version="3.0">
+	<site updateable="true" url="file:/eecs/home/nabeela1/.eclipse/org.eclipse.platform_4.28.0_1773660366_linux_gtk_x86_64/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.eclipse.egit.source" version="6.6.0.202305301015-r" url="features/org.eclipse.egit.source_6.6.0.202305301015-r/" plugin-identifier="org.eclipse.egit">
+		</feature>
+	</site>
 </config>

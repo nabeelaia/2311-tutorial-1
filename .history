@@ -4,35 +4,149 @@ rvs &
 cat test.txt
 #+1705950613
 nano test.txt
-#+1705950714
-git commit
-#+1705951068
-ls
 #+1705951106
 test1_change.txt test2.txt
 #+1705951149
 git mv test1.txt test1_change.txt
-#+1706419664
-:!
-#+1706419719
-git status-- since=2024-01-28
-#+1706419731
-git status --since=2024-01-28
-#+1706419784
-git log --since=2024-01-28
-#+1706419803
+#+1706417774
+git config-- global user.name "nabeela"
+#+1706417787
+global user.name "nabeela"
+#+1706417823
+git config --global user.name "nabeela"
+#+1706417852
+git config --list
+#+1706418036
+pwd
+#+1706418040
+git init
+#+1706418071
+ls-la
+#+1706418082
+ls -la
+#+1706418128
+touch test.txt
+#+1706418205
+git commit -m "my first commit"
+#+1706418274
 git log
-#+1706419906
-git commit -m "I am Nabeela"
-#+1706420063
-git add "testt2.txt"
-#+1706420098
-git commit -m "i added my name"
-#+1706420126
+#+1706418325
+git log --since= 2024-01-28
+#+1706418352
+git log --since=2024-01-27
+#+1706418393
+touch test1.txt
+#+1706418402
+touch test2.txt
+#+1706418470
+touch testt1.txt
+#+1706418476
+touch testt2.txt
+#+1706418476
+ls
+#+1706430999
+git branch - master
+#+1706431007
+git branch master
+#+1706431044
+git checkout
+#+1706431060
+git checkout new-branch-2-rename
+#+1706431111
+git merge
+#+1706431212
+git merge new-branch
+#+1706431273
+git checkout conflict.txt
+#+1706431284
+git checkout -b conflict.txt
+#+1706431360
+git checkout -b test-conflict
+#+1706431401
+git branch -d conflict.txt delete
+#+1706431414
+git branch -d condlict.txt-delete
+#+1706431449
+git branch -d conflict.txt-delete
+#+1706431497
+git branch conflict.txt
+#+1706431524
+git branch -d conflict.txt
+#+1706431605
+git commit -m "save changes of conflict.txt on test-conflict"
+#+1706431699
+touch conflict.txt
+#+1706431738
+git commit -m "add the file"
+#+1706431823
+echo "modify conflict.txt on master" >> conflict.txt
+#+1706431875
+git checkout test-conflict
+#+1706431922
+git checkout master
+#+1706431935
+git merge test-conflict
+#+1706431977
+cat conflict.txt
+#+1706432039
+git merge --abotr
+#+1706432048
+git merge --abort
+#+1706432087
+git add conflict.txt
+#+1706432258
+git help mergetool
+#+1706432380
+git add "conflict.txt"
+#+1706432429
+git commit
+#+1706432534
+git branch --merged
+#+1706432543
 git status
-#+1706420170
-git add ".local/share/xrdp/xrdp-chansrv.16.log"
-#+1706420177
+#+1706433917
+git remode add origin https://github.com/nabeelaia/2311-tutorial-1.git
+#+1706433952
+git remote add origin https://github.com/nabeelaia/2311-tutorial-1.git
+#+1706433968
+git remote
+#+1706474807
+git branch
+#+1706474846
+git remote -v
+#+1706474879
+git push -u "remote" "local"
+#+1706474906
+git push -u origin master
+#+1706475006
+git branch -r
+#+1706475022
+git branch -a
+#+1706476858
+git clone github.com/nabeelaia/test-clone-
+#+1706476932
+git clone https://github.com/nabeelaia/test-clone-.git
+#+1706476963
+touch test-clone.txt
+#+1706476974
+git add "test-clone.txt
+#+1706477015
+git add "test-clone.txt"
+#+1706477040
+git commit -m "clone and push changes"
+#+1706477269
+cat test-clone.txt
+#+1706477281
+git fetch
+#+1706477426
+git checkout -b test-delete
+#+1706477457
+touch test-delete.txt
+#+1706477465
+git add "test-delete.txt"
+#+1706477467
 git add .
-#+1706420188
-git commit .
+#+1706477480
+git commit -m "adding a file test-delete"
+#+1706477499
+git push -u origin test-delete

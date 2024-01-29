@@ -519,12 +519,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///cs/home/nabeela1/Downloads" added="2023-10-01T23:30:56Z" modified="2023-11-21T16:38:59Z" visited="2023-10-01T23:30:56Z">
+  <bookmark href="file:///cs/home/nabeela1/Downloads" added="2023-10-01T23:30:56Z" modified="2024-01-28T21:59:28Z" visited="2023-10-01T23:30:56Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-11-21T16:38:59Z" count="2"/>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2024-01-28T21:59:28Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -933,12 +933,32 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///eecs/home/nabeela1" added="2023-11-21T16:37:17Z" modified="2023-11-21T16:37:17Z" visited="2023-11-21T16:37:17Z">
+  <bookmark href="file:///eecs/home/nabeela1" added="2023-11-21T16:37:17Z" modified="2024-01-28T22:10:51Z" visited="2023-11-21T16:37:17Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2023-11-21T16:37:17Z" count="1"/>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2024-01-28T22:10:51Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///eecs/home/nabeela1/test-clone-" added="2024-01-28T22:10:57Z" modified="2024-01-28T22:10:57Z" visited="2024-01-28T22:10:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2024-01-28T22:10:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///cs/home/nabeela1" added="2024-01-28T22:11:15Z" modified="2024-01-28T22:11:15Z" visited="2024-01-28T22:11:16.225729Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2024-01-28T22:11:15Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
